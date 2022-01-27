@@ -1,0 +1,1200 @@
+,hostel_name,city,distance_center_km,average_rating,number_reviews,price_usd
+0,Selina Bariloche,Bariloche,0.9,8.3,94,15.00
+1,Moving Hostel Travel Bar,Bariloche,0.6,7.7,358,2.68
+2,La Casona Hostel,Bariloche,7.1,8.5,153,2.89
+3,Hospedaje Penthouse 1004,Bariloche,0.2,9.8,1840,1.82
+4,Tangoinn Hostel Downtown,Bariloche,0.7,9.0,791,31.57
+5,Berkana Hostel y Bar De Playa,Bariloche,0.6,8.4,108,33.49
+6,Hostel Like Quijote,Bariloche,0.9,8.9,309,0.38
+7,Hostel Los Troncos,Bariloche,0.6,9.4,160,2.77
+8,Hopa Home Hostel Patagonia,Bariloche,1.1,9.7,202,2.19
+9,Hostel Nix,Bariloche,1.4,8.2,16,12.46
+10,Hostel Achalay,Bariloche,0.5,9.1,1028,1.91
+11,Green House Hostel,Bariloche,3 fr,9.8,270,1.68
+12,Hostel Inn Bariloche,Bariloche,0.5,8.3,962,1.63
+13,Patagonia Jazz Hostel 2,Bariloche,0.6,7.0,7,38.48
+14,Km Alaska Hostel,Bariloche,6.9,8.6,1,27.75
+15,Marcopolo Inn,Bariloche,0.6,2.0,852,1.42
+16,Periko's Youth Hostel,Bariloche,0.5,9.9,843,1.91
+17,Bonita Lake House,Bariloche,7.2,6.6,34,30.68
+18,Hostel y Camping Los Coihues,Bariloche,8.9,0.0,0,34.44
+19,Tangoinn Club Hotel,Bariloche,0.5,0.0,54,45.62
+20,Patagonia Jazz Hostel,Bariloche,0.3,8.3,45,25.83
+21,Pipperland Hostel Brc,Bariloche,1.4,0.0,0,35.49
+22,KM Sun Hostel Bariloche,Bariloche,3.8,9.7,1,22.01
+23,Selva India Hotel Suite,Bariloche,0.9,0.0,0,18.94
+24,La Justina Hostel,Bariloche,0.7,9.7,384,9.11
+25,Aire de Barreal Hostel Andino,Barreal,4.5,0.0,0,13.00
+26,Viajero Buenos Aires Hostel,Buenos-Aires,3.8,8.9,190,12.73
+27,Milhouse Hostel Avenue,Buenos-Aires,3 fr,9.0,3003,2.20
+28,Che Juan BA,Buenos-Aires,4.1,9.7,184,8.84
+29,America del Sur Hostel Buenos Aires,Buenos-Aires,3.7,8.7,5795,2.10
+30,Reina Madre Hostel,Buenos-Aires,1.9,9.4,416,2.20
+31,Selina Palermo,Buenos-Aires,3.2,7.8,391,16.00
+32,Play Hostel Arcos,Buenos-Aires,3.5,8.0,2083,2.10
+33,Malevo Muraña Hostel,Buenos-Aires,3 fr,9.3,346,11.00
+34,Parla Hostel,Buenos-Aires,3.5,9.9,15,13.00
+35,Draper Startup House for Entrepreneurs,Buenos-Aires,3.8,7.8,101,13.20
+36,Sabatico Travelers Hostel & Guesthouse,Buenos-Aires,2.8,9.4,1185,2.29
+37,Voyage Recoleta Hostel,Buenos-Aires,2.9,7.9,922,1.82
+38,Circus Hostel,Buenos-Aires,3.8,7.7,750,16.15
+39,Hostel Estoril,Buenos-Aires,2.8,10.0,2792,1.91
+40,Play Hostel Soho,Buenos-Aires,2.9,4.6,312,15.25
+41,ilVero Hostel Recoleta,Buenos-Aires,2.4,9.2,24,12.00
+42,BA Stop,Buenos-Aires,3.1,6.7,665,1.94
+43,Master Hostel Borges,Buenos-Aires,3.1,8.2,33,14.00
+44,Suipacha Suites,Buenos-Aires,3.9,10.0,4,8.75
+45,Infinito Hotel Eco Design,Buenos-Aires,3 fr,0.0,32,6.46
+46,Chill House,Buenos-Aires,1.3,9.1,646,2.39
+47,Telmotango Hostel Suite,Buenos-Aires,3.7,6.5,821,1.82
+48,Hostel Colonial,Buenos-Aires,4.1,3.4,162,1.77
+49,Art Factory Soho,Buenos-Aires,3.3,7.6,77,2.36
+50,Hotel Frossard,Buenos-Aires,3.8,7.6,26,16.67
+51,Hotel La Barca,Buenos-Aires,1.4,7.4,9,14.99
+52,Hostel La Bamba,Buenos-Aires,2.6,3.7,6,8.00
+53,Hostel Carlos Gardel,Buenos-Aires,4 fr,7.7,318,2.15
+54,06 Central Hostel,Buenos-Aires,3.7,4.6,357,1.72
+55,First Palermo Hotel,Buenos-Aires,2.9,0.0,3,30.00
+56,Art Hostel Viracocha,Cachi,3.2,8.3,87,18.18
+57,Hostel Ruta 40,Cafayate,0.6,9.3,279,1.72
+58,Casa Arbol,Cafayate,0.5,5.4,314,1.44
+59,D Charruas Hostel,Concordia,1.8,10.0,10,9.09
+60,Selina Nueva Cordoba,Cordoba,2.6,9.3,103,13.00
+61,Aldea Hostel Cordoba,Cordoba,1.3,9.5,945,1.12
+62,Hostel Cordobés,Cordoba,2 fr,9.4,178,5.74
+63,Hostel Joven Casa Reggae,Cordoba,0.9,8.0,69,9.33
+64,Mundo Mestizo Hostel Córdoba,Cordoba,0.6,5.5,49,1.72
+65,Rupestre Hostel,Cordoba,2.8,8.2,147,1.72
+66,Mediterranea Hostel Cordoba,Cordoba,2.6,7.4,8,12.06
+67,Link Cordoba Hostel,Cordoba,1.4,8.3,406,1.35
+68,HA! Home Abroad,Cordoba,1.6,0.0,1,6.70
+69,Casi Guemes Hostel,Cordoba,2.7,0.0,2,10.66
+70,Morada Hostel,Cordoba,1 fr,0.0,355,1.53
+71,Earthship Patagonia Eco Hostel,El-Bolson,1.3,9.5,226,1.44
+72,Hostel el Mago,El-Bolson,10.3,7.7,3,8.61
+73,El Pueblito EcoHostel,El-Bolson,4.7,5.1,71,2.77
+74,Joy Hostel,El-Bolson,1.7,9.6,2,22.01
+75,Hostel Luz Clara,El-Bolson,12 f,9.8,126,1.44
+76,Pehuenia hostel y cabañas,El-Bolson,2.1,8.9,202,12.00
+77,La Casona de Odile,El-Bolson,5.4,10.0,443,1.44
+78,El Mirador,El-Bolson,1.9,8.4,96,1.44
+79,Jardin de Rosas,El-Bolson,2.1,7.0,10,33.49
+80,America del Sur Hostel,El-Calafate,3.1,9.4,3786,1.63
+81,Hostel Nakel Yenu,El-Calafate,3.2,9.5,1221,2.10
+82,Hostal Schilling,El-Calafate,3.6,9.7,889,2.58
+83,Calafate Hostel,El-Calafate,2.4,9.0,188,3.73
+84,Red House Hostel,El-Calafate,1.7,9.6,23,20.00
+85,Folk Suites,El-Calafate,2.3,9.2,79,4.78
+86,Folk Hostel,El-Calafate,3.5,8.9,301,4.78
+87,Hostel Inn Calafate,El-Calafate,3.3,8.8,78,1500.00
+88,Albergue & Hostal del Glaciar Libertador - HI,El-Calafate,3.2,0.0,775,26.62
+89,Hostel Calafate Viejo,El-Calafate,2.7,7.6,93,2.39
+90,Kau Kaleshen,El-Calafate,2.3,0.0,0,17.50
+91,Posada Larsen,El-Calafate,3.2,10.0,38,3.59
+92,Hosteria Patagonia,El-Calafate,2.7,0.0,0,14.50
+93,Hostel Buenos Aires,El-Calafate,2.7,6.9,526,1.91
+94,South B&B El Calafate,El-Calafate,2.9,8.0,17,25.00
+95,Hosteria Meulen,El-Calafate,3.3,0.0,7,28.75
+96,Rancho Grande Hostel,El-Chalten,0.2,7.5,1092,15.00
+97,Aylen-Aike Hostel,El-Chalten,1 fr,9.1,1029,23.92
+98,Milenarios Hostel,El-Chalten,0.8,9.8,151,19.14
+99,Hospederia Thiamalu,El-Chalten,1.1,10.0,212,21.25
+100,Condor de los Andes Backpackers Hostel,El-Chalten,1.1,9.7,287,15.00
+101,Nothofagus B&B,El-Chalten,1.1,9.1,39,29.50
+102,Hostel Los Viajeros,El-Chalten,1 fr,8.0,185,1.53
+103,Hospedaje Mi Rincon,El-Chalten,0.9,10.0,174,3.59
+104,Hostel & Departamentos Kaiken,El-Chalten,0.9,5.4,213,12.62
+105,Andino Aparts El Chalten,El-Chalten,0.9,0.0,0,21.25
+106,La Comarca Hostel,El-Chalten,1.2,8.7,1046,19.81
+107,Dormís Acá,Esquel,0.9,0.0,0,22.01
+108,My Pod Capsule Hostel,Esquel,2801.3,9.7,8,23.00
+109,Piedra Parada Climbing Hostel,Gualjaina,4.3,0.0,0,9.57
+110,Posada El Sol,Humahuaca,0.8,9.9,194,1.72
+111,La Plata Hostel El Pampa,La-Plata,1.3,3.4,4,4.62
+112,Hotel Pergamino,Mar-del-Plata,1.2,8.9,303,18.00
+113,Mar & Juana,Mar-del-Plata,0.6,9.7,1,17.22
+114,Zeppelin Art Hostel,Mar-del-Plata,0.9,9.9,41,1.89
+115,Casa Colinas,Mar-del-Plata,7.2,0.0,0,20.30
+116,Lagares Hostel,Mendoza,1.6,9.5,2495,1.82
+117,Hostel Lao,Mendoza,2.2,9.3,2342,1.15
+118,Hostel Alamo,Mendoza,2.9,9.4,1141,1.82
+119,Gorilla Hostel Mendoza,Mendoza,3.4,9.4,401,1.34
+120,Mora International Hostel,Mendoza,2.2,9.8,948,1.53
+121,Lemon Tree Hostel,Mendoza,17.7,9.8,108,13.56
+122,Hostel Internacional Mendoza,Mendoza,3.2,8.8,2198,0.86
+123,Panda Hostel Mendoza,Mendoza,4 fr,8.7,3,13.68
+124,Koala Hostel,Mendoza,3.2,8.7,88,14.35
+125,Dakar Hostel,Mendoza,1.5,9.7,1,9.23
+126,Casa Pueblo Petit Hostel,Mendoza,1.3,8.8,271,1.22
+127,ElCamino,Mina-Clavero,0.8,9.8,20,1.91
+128,Tucan Hostel,Puerto-Iguazu,0.9,9.6,545,14.35
+129,Hostel Park Iguazu,Puerto-Iguazu,1.2,8.3,906,1.44
+130,Nomads Hostel Iguazu,Puerto-Iguazu,0.9,9.0,1723,1.05
+131,Beer Hotel Iguazu,Puerto-Iguazu,4 fr,8.0,27,9.71
+132,El Guembe Suites,Puerto-Iguazu,1.3,9.0,75,0.73
+133,El Guembe Hostel House,Puerto-Iguazu,1.2,6.0,488,0.31
+134,The Host Bed & Meeting,Puerto-Iguazu,0.5,9.9,5,17.00
+135,Iguazu Falls Hostel,Puerto-Iguazu,1.1,7.7,783,1.53
+136,Garden Stone,Puerto-Iguazu,1 fr,9.7,11,12.50
+137,Nativa Iguazu,Puerto-Iguazu,4.8,7.1,29,8.00
+138,Petit Hotel Iguazu,Puerto-Iguazu,1.3,0.0,5,13.16
+139,Petit Hotel Caraguata,Puerto-Iguazu,1.4,4.3,6,2.10
+140,Hostel del Monte,Puerto-Iguazu,0.9,9.4,3,7.00
+141,Passaros Suite Hotel,Puerto-Iguazu,1.4,8.1,4,13.16
+142,Casa Folks B&B,Puerto-Iguazu,1 fr,0.0,0,1132761.96
+143,Tupa Boutique Hotel,Puerto-Iguazu,1.8,0.0,11,5.95
+144,Steve's House,Puerto-Iguazu,1 fr,9.0,5,333.33
+145,Roots Backpackers,Rada-Tilly,1.4,10.0,9,16.74
+146,Hostel Point,Rosario,0.7,7.9,77,1.53
+147,Posada Juan Ignacio,Rosario,1.4,9.7,86,2.58
+148,Be King,Rosario,0.5,8.6,72,12.00
+149,High Hostel,Rosario,0.4,9.0,32,11.12
+150,Freedom Hostel,Rosario,0.9,2.9,154,8.54
+151,Prisamata,Salta,0.8,9.5,583,2.01
+152,Hostel in Salta,Salta,1 fr,8.6,1629,1.53
+153,Ferienhaus Hostel Salta,Salta,1 fr,9.2,631,1.72
+154,Las Rejas,Salta,0.8,9.8,137,9.57
+155,Ravanusa Hostel,Salta,0.8,8.4,3,15.00
+156,All Norte Hostel,Salta,1.3,9.7,147,21.00
+157,Chabot Hostel,Salta,0.8,6.7,35,7.02
+158,Hostal Bernardo Salta,Salta,1.8,4.0,2,6.50
+159,Salamanca Rooms,Salta,1.7,10.0,42,1.91
+160,Selina Salta,Salta,0.5,0.0,0,22.50
+161,Hostal Tilian,Salta,1.8,0.0,0,8.80
+162,La Pachamama Hostal Salta,Salta,1.6,6.9,10,13.00
+163,The Old House Hostel,San-Ignacio,0.2,9.8,559,12.69
+164,Yellow Belly Backpackers,San-Ignacio,0.8,9.7,52,11.16
+165,Bella's Backpackers,San-Ignacio,0.2,8.9,657,12.50
+166,Hidden Haven,San-Ignacio,16.6,8.3,23,14.00
+167,D's Hostel,San-Ignacio,0.7,10.0,310,15.00
+168,Parrot Nest Lodge,San-Ignacio,4.4,10.0,3,26.00
+169,Drift Inn Cayo,San-Ignacio,2.2,10.0,1,18.00
+170,Midas Resort,San-Ignacio,0.9,0.0,13,30.45
+171,Alhue Patagonia Hostel,San-Martin-De-Los-Andes,0.3,9.5,37,20.09
+172,Dos Molinos B&B,San-Pedro,0.6,8.7,305,12.00
+173,Tamarindo Hostel,San-Pedro,1.6,8.0,74,10.00
+174,Amukan Guest House,San-Rafael,1.4,10.0,2,13.00
+175,Willy Hostel,San-Rafael,1 fr,9.9,10,1900.00
+176,Rogupani Hostel,San-Rafael,1.5,7.3,87,2.01
+177,casArtero eco posada,San-Rafael,12 f,0.0,0,25.67
+178,Malala Jujuy,San-Salvador-de-Jujuy,2.1,9.0,14,7.00
+179,Club Hostel,San-Salvador-de-Jujuy,2.9,6.6,121,1.44
+180,Elena hostel,Tandil,3.8,0.0,0,32.00
+181,Tilcara Mistica Hostel,Tilcara,0.3,6.0,54,0.67
+182,El Refugio Lodge Hostel,Ushuaia,0.8,8.8,9,30.96
+183,Antarctica Hostel,Ushuaia,0.4,9.3,1437,3.83
+184,Cruz del Sur Hostel,Ushuaia,0.6,8.7,2112,20.50
+185,Oshovia Hostel,Ushuaia,3 fr,9.7,110,44.50
+186,Los Cormoranes,Ushuaia,1.2,8.3,17,22.00
+187,Torre al Sur Hostel,Ushuaia,1 fr,9.3,581,17.50
+188,Hostal de la Laguna,Ushuaia,3.2,10.0,1,41.86
+189,Galeazzi - Basily B&B,Ushuaia,0.4,8.3,274,27.50
+190,Vuelta al Mundo,Ushuaia,3.2,0.0,2,25.00
+191,La Posta Apart Hotel,Ushuaia,3.5,8.5,990,2.92
+192,Blau Hostel,Villa-Carlos-Paz,0.6,0.0,0,13.06
+193,La Deseada Hostel,Villa-Gesell,0.6,9.4,1,22.00
+194,Hostel La Angostura,Villa-La-Angostura,0.4,9.8,163,3.83
+195,Hostel Andino,Villa-Pehuenia,5.2,10.0,21,3.28
+196,Hostal Florencia,Copacabana,2 fr,7.4,93,5.96
+197,Skylake B&B,Copacabana,1.7,0.0,0,7.45
+198,Flor de mi Tierra,Copacabana,2.8,0.0,50,8.94
+199,Selina La Paz,La-Paz,2.3,9.6,246,12.00
+200,Greenhouse Bolivia,La-Paz,2.9,7.7,307,13.41
+201,The Rooftop Bolivia,La-Paz,1.6,9.4,37,9.00
+202,HI-Onkel.Inn 1886,La-Paz,1.6,10.0,184,10.90
+203,The Adventure Brew Hostel,La-Paz,1.5,7.1,2205,7.67
+204,Down Town Hostel,La-Paz,1.4,10.0,185,14.53
+205,Paitití Hostel,La-Paz,0.6,0.0,87,5.22
+206,The Nest Boutique Hostel,La-Paz,1.3,9.7,5,12.07
+207,Hotel Las Brisas,La-Paz,1.2,8.9,38,20.49
+208,Hostal Real Gala Copacabana Bolivia,La-Paz,106.4,0.0,0,5.96
+209,Casa Bonita en  el centro de la Ciudad,La-Paz,1.6,0.0,0,10.50
+210,Almudena Apart Hotel,La-Paz,2.2,0.0,2,30.73
+211,Casa Fusion Hotel Boutique,La-Paz,2.7,0.0,10,36.76
+212,Perezoso Hostel,Rurrenabaque,0.2,6.0,19,6.71
+213,El Curichal Hostel,Rurrenabaque,0.3,10.0,1,8.50
+214,Hostel Serena,Samaipata,6 fr,9.0,105,9.98
+215,360 Grados Hostel,Santa-Cruz-de-la-Sierra,0.9,9.4,236,7.00
+216,Nomad Hostel,Santa-Cruz-de-la-Sierra,0.1,6.6,67,8.94
+217,Residencial Ikandire,Santa-Cruz-de-la-Sierra,0.1,8.6,33,15.00
+218,KulturBerlin Sucre,Sucre,0.9,9.1,1253,8.20
+219,Mi Pueblo Samary,Sucre,1.1,0.0,2,29.59
+220,Hostal CasArte Takubamba,Sucre,1.4,9.4,429,11.00
+221,Casa Verde B&B,Sucre,1.1,0.0,239,18.67
+222,Redário Gengibre Hostel Hammocks to Sleep in Alca,Alcantara,0.5,0.0,0,7.67
+223,Hostel Pousada do Tapajos,Alter-do-Chao,0.4,10.0,54,9.13
+224,Don Preguiça,Alter-do-Chao,0.3,10.0,17,11.05
+225,Pousada e Hostel Coração Verde,Alter-do-Chao,0.5,0.0,0,16.87
+226,Your Hostel,Balneario-Camboriu,0.7,9.7,3,10.04
+227,Bonabrigo Hostel,Balneario-Camboriu,0.5,9.1,54,10.96
+228,Positive Hostel,Balneario-Camboriu,2 fr,9.7,15,9.44
+229,Casa do Professor Hostel,Barreirinhas,1.1,0.0,0,1.46
+230,Hostel Lencois Park,Barreirinhas,0.3,8.8,7,10.00
+231,Z-18 Hostel,Barreirinhas,1.1,0.0,0,9.13
+232,Belem Hostel,Belem,1 fr,6.9,151,7.30
+233,Bertioga Beach Hostel,Bertioga,9.6,0.0,0,13.33
+234,Quatro Ilhas Beach Hostel,Bombinhas,3.6,9.9,35,10.96
+235,Hostel-Albergue Toca da Moréia,Bombinhas,3.5,0.0,16,10.77
+236,Bonito Hostel,Bonito,1.9,8.7,8,11.78
+237,CLH Suites Bonito Sul,Bonito,1 fr,0.0,99,13.52
+238,Pousada São Jorge,Bonito,0.5,0.0,99,4.84
+239,CLH Suites Bonito Centro,Bonito,0.1,8.6,5,23.37
+240,Selina Bonito,Bonito,0.3,0.0,0,22.37
+241,Pousada Chamamé,Bonito,1.2,0.0,0,18.76
+242,Pousada Galeria Artes,Bonito,1.5,0.0,0,23.27
+243,Bamboo Buzios Hostel,Buzios,0.8,9.1,76,10.04
+244,Che Lagarto Hostel Buzios,Buzios,1.1,8.3,398,5.78
+245,El Misti Hostel Buzios,Buzios,1.8,8.3,34,6.39
+246,Numa Boa Hostel,Buzios,4.2,9.9,23,8.19
+247,Solar Hostel Búzios,Buzios,3.8,8.8,326,10.04
+248,Hostel Lobo Inn Buzios,Buzios,3.7,10.0,184,7.85
+249,Local Friend,Buzios,3.9,9.4,49,10.96
+250,Blanca Hostel,Buzios,4.6,10.0,24,6.57
+251,Búzios Colinas Homestay,Buzios,4 fr,8.0,3,6.85
+252,Pousada Cores de Buzios,Buzios,0.4,0.0,0,10.35
+253,Jardim Secreto Guesthouse,Buzios,1 fr,0.0,0,13.70
+254,My House Hostel Buzio,Buzios,1.8,0.0,0,14.61
+255,Hostel Cape Town,Cambara-do-Sul,1656.4,10.0,2,18.26
+256,Eco Hostel Flor da vida,Canoa-Quebrada,1.7,0.0,0,8.40
+257,Pousada California,Canoa-Quebrada,1.1,0.0,0,16.62
+258,Hostel Casa de Paixão,Caraiva,1.3,9.7,3,27.30
+259,Da Praia Caraíva,Caraiva,1.3,0.0,0,30.03
+260,Hostel Casa do Rogerio,Caxias-Do-Sul,1.4,10.0,2,5.11
+261,Dom Alberto Hostel,Corumba,997.7,0.0,4,10.96
+262,Social Hostel,Curitiba,3.9,9.6,238,7.12
+263,Hostel Matilda,Curitiba,2.5,9.6,201,6.93
+264,Curitiba Casa Hostel,Curitiba,2.4,9.6,581,8.40
+265,Brazilian Cult Hostel,Curitiba,6 fr,9.1,2,5.48
+266,Hostel Kombi Curitiba - Filial Jardim Botânico,Curitiba,3.1,0.0,0,12.78
+267,O Brejo Encantado Hospedagem e Hostel,Embu-das-Artes,3.7,0.0,0,12.78
+268,Ilha Hostel,Fernando-de-Noronha,2.7,9.9,7,21.91
+269,Noronha 350,Fernando-de-Noronha,1.2,9.1,1,33.79
+270,Cacimba Surf Hostel,Fernando-de-Noronha,2.5,0.0,0,35.61
+271,Casa Swell,Fernando-de-Noronha,2.8,9.7,1,34.53
+272,The Search House Beachfront Hostel,Florianopolis,13.8,9.6,398,8.22
+273,Tucano House Summer Hostel,Florianopolis,10.2,9.8,1042,9.13
+274,Selina Floripa,Florianopolis,13 f,7.9,70,11.93
+275,Geckos Hostel,Florianopolis,10.3,8.8,745,5.48
+276,Sea Wolf Surf Club Hostel,Florianopolis,14.2,8.4,88,9.13
+277,Duque Hostel,Florianopolis,13.8,9.8,18,13.70
+278,On The Road Hostel Lagoa,Florianopolis,10.3,7.9,93,10.04
+279,Innbox - Centro,Florianopolis,2.4,8.5,15,13.26
+280,World Hostel Canasvieiras,Florianopolis,20 f,7.4,43,2.33
+281,Submarino Hostel,Florianopolis,10.2,9.9,619,4.57
+282,Floripa Surf Hostel,Florianopolis,14.5,8.7,214,10.96
+283,Hostel Manjericão,Florianopolis,9.6,8.7,9,8.04
+284,Casa Terra Hospedagem,Florianopolis,12 f,9.5,22,8.95
+285,On The Road Hostel,Florianopolis,14 f,6.0,119,7.12
+286,Pup Hostel SC,Florianopolis,3 fr,9.9,85,6.03
+287,Innbox - Canasvieiras,Florianopolis,19.8,10.0,11,13.26
+288,HI Floripa Hostel Centro,Florianopolis,1.2,9.6,136,10.77
+289,Hostel Vagamundo,Florianopolis,19.4,7.6,5,11.05
+290,Lampiao Hostel,Florianopolis,14.1,9.6,5,10.96
+291,Sunset Backpackers,Florianopolis,12.7,7.6,1233,6.39
+292,Costa Hostel Bar,Florianopolis,22.6,6.9,3,8.40
+293,Hostel Berghaus,Florianopolis,3.4,9.7,18,10.29
+294,Hostel Moçambique,Florianopolis,18.8,9.7,3,6.85
+295,Nossa Casa em Floripa,Florianopolis,24.8,10.0,5,9.68
+296,Way Up Hostel,Florianopolis,4.1,2.0,2,11.87
+297,EasyHost Brasil,Florianopolis,1.7,9.4,1,21.91
+298,Espiral Hostel,Florianopolis,11.6,0.0,0,6.25
+299,Vizoo Guest House,Florianopolis,10.2,8.7,7,8.25
+300,HI Floripa Hostel Barra da Lagoa,Florianopolis,13.7,3.7,91,8.22
+301,Hostel Canasvieiras,Florianopolis,20 f,3.7,79,7.12
+302,Tetris Container Hostel,Foz-do-Iguacu,1 fr,9.2,1632,6.39
+303,Concept Design Hostel,Foz-do-Iguacu,1.4,9.5,659,6.94
+304,Selina Foz,Foz-do-Iguacu,0.5,9.6,4,9.94
+305,Hostel e Pousada El Shaddai,Foz-do-Iguacu,1.7,9.5,825,0.82
+306,Hostel Bambu,Foz-do-Iguacu,0.7,9.9,1766,11.00
+307,Che Lagarto Hostel Foz do Iguaçu,Foz-do-Iguacu,1.5,9.1,1532,12.14
+308,Iguassu Eco Hostel,Foz-do-Iguacu,12.3,10.0,185,8.22
+309,Hostel Poesia,Foz-do-Iguacu,2 fr,8.1,618,4.57
+310,Pousada Sonho Meu,Foz-do-Iguacu,2.1,9.7,74,10.46
+311,Vila Castelo Branco,Foz-do-Iguacu,1.7,0.0,0,8.75
+312,Vila Dumont Residencial,Foz-do-Iguacu,1.6,0.0,0,8.86
+313,Eleganz Hostel & Suites,Gramado,0.3,9.9,52,15.52
+314,Hostel Chocolatche,Gramado,0.4,0.0,24,10.96
+315,Britânico Suítes e Hostel,Gramado,1 fr,9.9,98,8.22
+316,Guarda Encantada Surf Hostel,Guarda-do-Embau,0.7,2.7,15,9.13
+317,Guaruja Hostel,Guaruja,575.4,9.1,28,20.04
+318,Biergarten Hostel,Ilha-Grande,7.5,9.3,2118,6.39
+319,Aquario Hostel Bar & Night Club,Ilha-Grande,8.3,8.9,368,7.30
+320,Che Lagarto Hostel Ilha Grande,Ilha-Grande,8.2,7.7,845,16.03
+321,Hostel Refugio,Ilha-Grande,7.7,9.7,200,7.30
+322,HI Holandes,Ilha-Grande,7.8,9.9,1332,6.57
+323,Beira Mar Hostel,Ilha-Grande,7.7,8.0,20,10.96
+324,Pousada da Cachoeira,Ilha-Grande,7.6,9.9,247,9.59
+325,Hostel Clube Vaa,Ilha-Grande,8.3,0.0,0,10.96
+326,Laio's Hostel,Ilha-Grande,7.5,6.4,16,0.91
+327,Bougainville Hostel,Ilha-Grande,7.6,0.0,0,200.68
+328,CLH Suites Ilha Grande,Ilha-Grande,8.2,6.9,23,12.69
+329,Solar da Praia,Ilha-Grande,7.6,10.0,2,26.63
+330,Raio de sol - Ilha Grande,Ilha-Grande,7.4,0.0,0,10.96
+331,Hostel da Vila,Ilhabela,0.2,9.8,310,8.22
+332,ClanDestino,Ilhabela,0.1,9.1,1,9.13
+333,Manaca Hospedaria e Bistro,Ilhabela,4.3,10.0,15,10.04
+334,Green Hostel Ilhabela,Ilhabela,3.9,6.3,81,5.48
+335,Alebahli hostel,Ilhabela,1 fr,7.7,8,6.57
+336,Mais que Nada Hostel & Patio-Bar,Itacare,0.5,9.3,117,8.22
+337,Che Lagarto Hostel Itacaré,Itacare,0.3,9.6,177,13.66
+338,Bananas Hostel,Itacare,0.4,8.9,2,10.04
+339,Pousada Terral Surf,Itacare,1.2,0.0,0,15.22
+340,Namoa Pollastrini,Itanhaem,0.2,9.6,2,12.78
+341,Slow Hostel,Joao-Pessoa,3.8,10.0,221,7.30
+342,HI Manaira,Joao-Pessoa,3.3,8.9,132,12.00
+343,Mangamel Hostel,Lencois,0.5,9.9,12,4.57
+344,HI Hostel Chapada - Lencois,Lencois,0.3,7.1,281,9.13
+345,Local Hostel Manaus,Manaus,2 fr,8.7,658,7.12
+346,Hostel Manaus,Manaus,2.4,8.7,343,8.04
+347,Maraga Beach Hostel,Maragogi,0.5,9.1,39,10.04
+348,Farofa Loca Hostel & Suites,Morro-de-Sao-Paulo,0.6,9.7,107,12.66
+349,Piratas do Morro Pousada e Hostel,Morro-de-Sao-Paulo,0.3,8.7,35,11.41
+350,Che Lagarto Hostel Morro de Sao Paulo,Morro-de-Sao-Paulo,0.5,9.3,368,22.42
+351,Universo Pol Bamboo Hostel,Morro-de-Sao-Paulo,0.6,10.0,148,9.13
+352,Hostel Bella Ipe,Morro-de-Sao-Paulo,0.4,2.0,3,9.13
+353,Bendita Onda,Morro-de-Sao-Paulo,0.4,7.4,6,7.76
+354,Hostel Dmais,Morro-de-Sao-Paulo,0.5,2.3,3,10.96
+355,Hostel Mama Africa 2 Gamboa,Morro-de-Sao-Paulo,3.5,0.0,0,13.70
+356,Mundo da Lua Hostel,Morro-de-Sao-Paulo,0.4,0.0,0,9.13
+357,Pousada Marinheiro,Morro-de-Sao-Paulo,0.3,0.0,0,35.61
+358,Pousada e Hostel Papagaio,Morro-de-Sao-Paulo,0.5,9.1,161,8.22
+359,Republika Hostel,Natal,9.1,8.5,570,6.62
+360,Agora Hostel Natal,Natal,8.9,9.6,20,10.04
+361,Pousada Natal Pardise,Natal,10.7,8.8,68,11.57
+362,Brasileranza Hostel,Niteroi,2.8,10.0,20,12.78
+363,Uai Hostel,Ouro-Preto,0.2,8.4,129,5.30
+364,Albergue Hostel Palmas,Palmas,8.8,0.0,13,11.87
+365,Selina Paraty,Paraty,0.2,8.4,20,13.57
+366,Che Lagarto Hostel Paraty,Paraty,0.2,8.4,1601,12.02
+367,Remo Hostel,Paraty,8 fr,9.4,117,3.65
+368,Vibe Hostel,Paraty,0.6,9.1,647,4.57
+369,Hostel Sereia do Mar,Paraty,1.1,9.3,42,6.39
+370,Paraty Hostel - Casa do Rio,Paraty,0.2,8.9,60,5.84
+371,Canto Caiçara Hostel,Paraty,1.7,7.1,19,8.04
+372,Casa Viva Paraty,Paraty,0.3,9.6,293,9.04
+373,Happy Hammock Eco,Paraty,7.8,10.0,267,9.13
+374,Leo's Clan Beach Hostel,Paraty,0.3,9.5,615,4.93
+375,Chill Inn Paraty Hostel & Pousada,Paraty,0.6,8.8,720,4.56
+376,Maracujá Hostel,Paraty,0.2,8.2,149,7.12
+377,Geko Hostel & Pousada Paraty,Paraty,0.6,9.7,435,4.56
+378,Odoyá Hostel,Paraty,0.3,0.0,0,20.09
+379,Parnaiba Hostel,Parnaiba,1.8,10.0,16,5.48
+380,Solar Hostel Parnaíba,Parnaiba,2 fr,0.0,0,10.29
+381,AymuraY Hostel,Penha,4.5,0.0,8,8.22
+382,Surfcamp Arara,Pipa,0.4,9.5,131,10.04
+383,Lagarto na Banana,Pipa,0.8,9.4,365,5.48
+384,Macaco Surf Hostel,Pipa,0.8,6.4,8,8.22
+385,No Worries Pipa,Pipa,0.5,0.0,0,8.22
+386,Zicatela Beach Hostel,Pipa,0.8,9.0,184,6.39
+387,Tropical Hostel,Pipa,0.6,8.9,1,9.68
+388,Kuki's Hostel,Pipa,0.4,10.0,1,3.65
+389,AArca HC,Pipa,0.4,9.6,28,7.30
+390,Porto Alegre Eco Hostel,Porto-Alegre,2.6,8.6,271,6.76
+391,Swan Generation,Porto-Alegre,1.7,10.0,2,20.27
+392,Innbox - Porto Belo,Porto-Belo,3.4,0.0,0,16.87
+393,Che Lagarto Hostel Porto de Galinhas,Porto-de-Galinhas,1.4,8.9,289,11.81
+394,Beach Life Porto de Galinhas,Porto-de-Galinhas,1.4,8.8,318,6.39
+395,Palawan Hostel,Porto-de-Galinhas,1.5,10.0,3,10.04
+396,HI Praia do Forte Hostel,Praia-do-Forte,0.3,9.5,107,14.06
+397,Innbox - Praia do Rosa,Praia-do-Rosa,0.6,10.0,13,13.26
+398,Albergue Explorer,Praia-do-Rosa,1.1,9.7,33,9.13
+399,Haleakala Hostel,Praia-do-Rosa,0.4,10.0,56,8.22
+400,Kaimana Hostel,Praia-do-Rosa,0.9,7.7,13,8.95
+401,Local Hostel Figueiredo,Presidente-Figuereido,1.9,10.0,3,10.98
+402,Ramon HostelBar,Recife,8.7,8.6,53,7.67
+403,Hostel e Pousada Boa Vista,Recife,1.3,9.7,26,10.96
+404,Praia Virgem Hostel,Rio-das-Ostras,1.7,0.0,0,9.13
+405,Selina Lapa Rio de Janeiro,Rio-de-Janeiro,5.8,9.0,228,9.94
+406,Ipanema Beach Hostel,Rio-de-Janeiro,9.6,8.7,518,8.95
+407,Selina Copacabana,Rio-de-Janeiro,10 f,8.9,68,16.00
+408,El Misti Hostel Ipanema,Rio-de-Janeiro,9.9,8.7,1053,6.06
+409,Pura Vida Hostel Rio de Janeiro,Rio-de-Janeiro,9.9,9.1,662,4.38
+410,CabanaCopa Hostel,Rio-de-Janeiro,8.8,8.6,2125,4.38
+411,Books Hostel,Rio-de-Janeiro,5.4,9.5,2225,6.72
+412,Mango Tree Hostel Ipanema,Rio-de-Janeiro,10 f,9.0,1352,5.46
+413,Aquarela do Leme,Rio-de-Janeiro,9.3,9.7,337,10.23
+414,Kaza Rio,Rio-de-Janeiro,3.1,9.1,454,7.30
+415,Rio Forest Hostel,Rio-de-Janeiro,5.5,9.2,250,5.84
+416,Mambembe Hostel,Rio-de-Janeiro,5.7,9.3,930,5.48
+417,Bamboo Rio Hostel,Rio-de-Janeiro,8.8,8.4,783,4.02
+418,Tupiniquim Hostel,Rio-de-Janeiro,7.8,9.0,647,4.57
+419,Ipanema Beach House,Rio-de-Janeiro,9.6,7.3,752,5.84
+420,Che Lagarto Hostel Ipanema,Rio-de-Janeiro,9.6,8.9,2231,8.88
+421,Aurora Rio Hostel,Rio-de-Janeiro,7.3,7.3,386,4.38
+422,Che Lagarto Hostel Copacabana,Rio-de-Janeiro,9.1,6.5,984,6.32
+423,Discovery Hostel,Rio-de-Janeiro,6.1,8.9,1522,8.22
+424,Hospedaria da Glória,Rio-de-Janeiro,6.3,7.2,80,10.96
+425,Le House Hostel,Rio-de-Janeiro,9.4,7.8,77,4.38
+426,Solar Hostel Beach Copacabana,Rio-de-Janeiro,9.8,9.1,55,6.03
+427,Gaia Hostel,Rio-de-Janeiro,7.7,7.6,134,8.22
+428,Rio Nomad Guest House,Rio-de-Janeiro,8.2,8.4,26,8.22
+429,Beach House Ilha da Gigoia,Rio-de-Janeiro,13.9,10.0,9,7.85
+430,Hostel Rio Guesthouse,Rio-de-Janeiro,9.5,9.0,73,7.76
+431,Villa 25 Hostel & Suites,Rio-de-Janeiro,6.4,8.1,169,8.77
+432,Hostel New Ipanema,Rio-de-Janeiro,9.9,9.6,352,4.57
+433,Maracanã Hostel Vila Isabel,Rio-de-Janeiro,1.8,8.4,9,6.39
+434,Social Hostel Arpoador,Rio-de-Janeiro,10.6,9.2,13,17.35
+435,Rolds Hostel,Santos,3.9,6.2,11,8.22
+436,Araucária Hostel,Sao-Bento-do-Sul,151.4,10.0,1,8.40
+437,Del Mundo Hostel,Sao-Joao-Del-Rei,2.2,9.1,6,15.98
+438,Reviver Hostel,Sao-Luis,20.9,8.2,26,10.96
+439,Tanan Hostel,Sao-Luis,23.1,9.4,44,9.68
+440,Hostel Cazumbá Centro,Sao-Luis,19.7,0.0,0,6.21
+441,Guará Hostel,Sao-Luis,20.2,0.0,0,15.52
+442,O de Casa Hostel Bar,Sao-Paulo,6 fr,9.7,2823,5.84
+443,Selina Madalena Sao Paulo,Sao-Paulo,5.7,8.6,75,12.92
+444,Viva Hostel Design,Sao-Paulo,6.2,8.6,685,8.22
+445,Selina Aurora SP,Sao-Paulo,1.4,7.7,57,12.00
+446,Nomade In Arte e Hostel,Sao-Paulo,3.6,8.6,110,5.26
+447,Hostel Brasil Boutique,Sao-Paulo,6 fr,8.6,140,8.22
+448,Sao Paulo Wanderlust Hostel,Sao-Paulo,2.2,8.9,88,4.93
+449,Sao Paulo Global Hostel,Sao-Paulo,3.7,5.2,453,7.12
+450,Brazilodge All Suites Hostel,Sao-Paulo,4.2,9.1,225,10.77
+451,Hostel More SP,Sao-Paulo,3.4,8.6,16,10.96
+452,Soul Hostel,Sao-Paulo,2.5,8.9,205,8.04
+453,Metro Hostel SP,Sao-Paulo,5.5,8.6,122,4.38
+454,Jardins Village Hostel - Unidade Brigadeiro,Sao-Paulo,3.4,9.3,8,9.13
+455,Aurea Hostel,Sao-Paulo,4.3,9.1,39,11.05
+456,Vila Rock Hostel,Sao-Paulo,4.4,7.0,142,7.12
+457,Girassol Hostel Vila Madalena,Sao-Paulo,5.9,4.5,365,5.46
+458,Visa Hostel & Hospedagens,Sao-Paulo,11.1,9.0,18,8.13
+459,O Viajante Hostel,Sao-Paulo,2.5,9.3,4,8.22
+460,Conforto MADÁ hostel,Sao-Paulo,6 fr,8.1,140,6.57
+461,Hostel Calábria Vila Madalena,Sao-Paulo,5.9,9.3,6,12.78
+462,Lamparina Hostel,Sao-Paulo,4.6,10.0,1,10.56
+463,Quintal Hostel,Sao-Paulo,2.8,7.8,12,5.39
+464,Villa Hostel,Sao-Paulo,5.6,9.1,33,10.77
+465,Garoa Hostel,Sao-Paulo,6.8,9.7,213,7.30
+466,Imagina Hostel,Sao-Paulo,2.8,8.0,18,17.35
+467,Did's Hostel,Sao-Paulo,3.3,8.3,227,5.66
+468,Bistu Hotel & Hostel,Sao-Paulo,6.7,9.7,4,19.36
+469,Hobi Hostel Aeroporto de Congonhas,Sao-Paulo,8.3,10.0,1,7.67
+470,Red Monkey Hostel Barra Funda,Sao-Paulo,2.8,6.3,67,8.22
+471,Paradiso Bnb,Sao-Paulo,4.8,8.6,2,8.52
+472,Hostel Central São Sebastião,Sao-Sebastiao,4.8,9.9,6,10.96
+473,Hostel Recanto Canto do Mar,Sao-Sebastiao,5.7,7.0,2,7.30
+474,Bee.W Juquehy,Sao-Sebastiao,33 f,10.0,7,13.65
+475,Drifter Hostel,Sao-Sebastiao,28.6,9.1,6,11.87
+476,Itauna Hostel,Saquarema,1.5,10.0,1,19.99
+477,Saqua Beach Hostel,Saquarema,2.5,0.0,5,10.00
+478,Hostel Tiradentes,Tiradentes,0.8,9.3,11,12.78
+479,Trindade Sea and Forest Yoga Hostel,Trindade,0.2,7.4,334,18.26
+480,Green Haven Hostel,Ubatuba,2.4,9.9,1280,6.39
+481,Na Praia - Family Hostel & Coworking,Ubatuba,1 fr,10.0,18,7.30
+482,Ka'a Hostel & Pousada,Ubatuba,3.3,10.0,1,9.13
+483,Pousada Marthi,Ubatuba,7.9,0.0,0,10.65
+484,Pousada Chales Madu,Ubatuba,15.6,0.0,0,10.96
+485,Sitio Simple Life,Ubatuba,6.6,0.0,0,18.26
+486,Casa Tribus Itamambuca,Ubatuba,6.9,0.0,0,8.22
+487,Pousada Papaya Container,Ubatuba,1.4,0.0,0,17.78
+488,Residencia Universitaria Tomás Alfaro Fournier,Vitoria,1.5,0.0,0,30.50
+489,Hotel Dato,Vitoria,0.9,0.0,60,30.50
+490,Chiloe Austral Hostel,Chiloe,140.2,4.3,81,14.52
+491,13 Lunas Hostel,Chiloe,140.4,9.3,513,14.30
+492,Patagon Backpackers,Coyhaique,0.7,8.0,53,18.02
+493,Hostel Cosmo Elqui Valley,Elqui-Valley,44.9,7.7,137,16.94
+494,Backpacker`s Hostel Iquique,Iquique,1.3,6.5,1091,10.57
+495,Aotea Hostel Iquique,Iquique,0.8,9.0,56,18.65
+496,Aji Verde Hostel,La-Serena,1.1,8.5,494,9.32
+497,Hostal El Punto,La-Serena,0.1,9.1,34,15.33
+498,Hostal El Arbol,La-Serena,1.3,9.3,866,10.57
+499,Hostal El Arbol  II - Beach,La-Serena,1.3,8.6,211,7.77
+500,Valle Mistral,La-Serena,0.2,8.9,44,21.00
+501,Chili Kiwi Lakefront,Pucon,0.4,9.6,1986,9.94
+502,Selina Plaza Pucon,Pucon,0.5,8.7,9,15.00
+503,Lacustre Trip Hostel,Pucon,0.3,9.3,50,9.94
+504,Gecko Hostel,Pucon,0.4,7.7,62,14.53
+505,Hostal Emalafquen,Pucon,0.4,9.7,139,0.19
+506,Okori Hostel Pucon,Pucon,6.1,9.4,46,12.00
+507,Hostel French Andes,Pucon,0.7,9.3,460,8.08
+508,Hostal el Nogal Pucón,Pucon,1 fr,10.0,29,14.50
+509,Hostel Last Hope,Puerto-Natales,0.4,9.7,1133,18.15
+510,El Patagonico,Puerto-Natales,0.5,9.8,968,15.38
+511,Hostal Lili-Patagonicos,Puerto-Natales,0.4,9.8,720,17.40
+512,Corner Hostel,Puerto-Natales,0.8,9.7,63,17.50
+513,Puma House,Puerto-Natales,0.7,9.4,98,15.00
+514,Factoria Patagonia,Puerto-Natales,0.4,9.6,10,37.50
+515,YaganHouse,Puerto-Natales,0.4,9.7,431,13.43
+516,Hostal Bellavista Puerto Natales,Puerto-Natales,0.6,8.0,119,12.85
+517,Niko's II Adventure,Puerto-Natales,0.2,9.0,444,16.78
+518,Hostal El Puestero,Puerto-Natales,4.8,0.0,0,30.00
+519,Hospedaje Magallanes,Punta-Arenas,1.3,9.7,593,14.77
+520,Hostal Chiloe,Punta-Arenas,1.6,8.7,49,18.65
+521,Patagonia House,Punta-Arenas,1.5,6.6,479,13.67
+522,Hostal al Fin del Mundo,Punta-Arenas,1.8,7.1,270,21.13
+523,Hostal Rural,San-Pedro-de-Atacama,0.2,9.1,2562,14.54
+524,Casa Voyage Hostel,San-Pedro-de-Atacama,0.7,9.8,57,14.76
+525,Hostal Possada Atacameña,San-Pedro-de-Atacama,0.4,9.8,118,14.36
+526,Rural - La Florida,San-Pedro-de-Atacama,0.1,9.0,631,8.95
+527,Aji Verde Hostel San Pedro de Atacama,San-Pedro-de-Atacama,0.9,9.7,786,10.57
+528,Hostal Chiloe,San-Pedro-de-Atacama,0.2,9.4,7,14.92
+529,Sol Atacama Hostel,San-Pedro-de-Atacama,0.7,9.7,1047,8.44
+530,Mamatierra Hostel,San-Pedro-de-Atacama,0.6,9.1,660,20.00
+531,Rey Lagarto Hostel,San-Pedro-de-Atacama,1.1,9.7,5,13.05
+532,Hostal Campo Base,San-Pedro-de-Atacama,0.7,9.9,255,25.00
+533,Jardin Atacama,San-Pedro-de-Atacama,0.2,0.0,0,47.13
+534,Jumanji Hostal Spa,San-Pedro-de-Atacama,1 fr,0.0,0,21.13
+535,Hostal Open House,San-Pedro-de-Atacama,0.6,0.0,1,12.00
+536,Backpackers San Pedro,San-Pedro-de-Atacama,0.5,7.5,1968,8.70
+537,Hostal Forestal,Santiago,1.2,9.3,2514,16.53
+538,Hostal Providencia,Santiago,1.6,8.2,2187,9.94
+539,Merced 88,Santiago,1.3,8.8,242,15.23
+540,Atacama Backpackers,Santiago,2.7,7.6,38,12.50
+541,Eco-Hostal Tambo Verde,Santiago,2 fr,10.0,50,5.59
+542,Casa Riquelme,Santiago,1 fr,8.6,7,11.60
+543,Aji Hostel,Santiago,2.4,8.7,1951,10.90
+544,Wild Santiago Hostel,Santiago,1.7,5.8,11,10.56
+545,Plaza de Armas Hostel,Santiago,0.1,2.0,1576,16.88
+546,Yogi Hostels,Santiago,4.6,9.2,12,14.92
+547,Ventana Sur Hostal,Santiago,2.3,10.0,844,9.93
+548,Hostal Casa Aborigen,Santiago,2.1,9.3,51,20.41
+549,Landay Hostel,Santiago,1.5,3.7,592,8.77
+550,Lucia Agustina Hotel & Boutique,Santiago,0.6,0.0,0,17.40
+551,Chile Chico Hostel,Santiago,2.7,0.0,0,18.65
+552,Parron de Colores B&B,Santiago,6.9,0.0,30,12.00
+553,Hostal Rio Amazonas - Plaza Italia,Santiago,1.5,10.0,90,31.75
+554,Bento Hostel,Santiago,1.6,9.4,7,11.75
+555,Hotel Brasilia,Santiago,1.6,0.0,0,23.50
+556,Departamentos Centro Urbano Manuel Montt,Santiago,3.1,0.0,1,22.50
+557,Santiago Backpackers,Santiago,0.4,2.0,962,15.00
+558,Hostal Bella 269,Santiago,0.8,0.0,9,21.25
+559,Conchita Flores B&B,Santiago,3.5,0.0,5,37.50
+560,Vr Suite Santiago,Santiago,0.6,0.0,1,29.00
+561,Hostal Chilextremo,Santiago,33.1,0.0,0,191020.30
+562,VIP Apartments Chile,Santiago,0.6,0.0,1,16.50
+563,Providencia Bed and Breakfast,Santiago,3.2,0.0,19,25.00
+564,Airesbuenos Hostel & Permaculture,Valdivia,1.8,9.1,608,13.67
+565,Maki Hostel Valparaiso,Valparaiso,2.6,8.0,125,10.69
+566,La Joya Hostel,Valparaiso,0.4,8.6,409,10.57
+567,Casa Volante Hostal,Valparaiso,2.6,9.3,811,10.49
+568,Hostal Po,Valparaiso,2.6,9.8,775,9.94
+569,Casa Verde Limon,Valparaiso,2.4,9.4,1042,8.08
+570,Hostal Licanantay,Valparaiso,2.3,6.0,51,9.94
+571,Nómada Eco Hostel,Valparaiso,1.6,9.2,399,10.57
+572,Escarabajo Hostel,Valparaiso,2 fr,10.0,341,8.92
+573,Casa Violeta Limon,Valparaiso,2.4,0.0,14,11.81
+574,La Casa Piola,Valparaiso,2.4,10.0,10,11.81
+575,La Nona B&B,Valparaiso,2.7,9.7,283,25.73
+576,La Galería,Valparaiso,2.6,8.6,12,17.40
+577,Volta Inn Hostel,Valparaiso,0.8,6.4,13,13.33
+578,Antawara Hostel De Elqui,Vicuna,1.3,8.9,48,16.16
+579,Hotel Tukun Mapu,Vicuna,2.3,0.0,0,27.97
+580,Jaguar Hostel + Living,Vina-del-Mar,3.4,9.5,517,14.00
+581,Little Castle,Vina-del-Mar,4.3,10.0,217,22.50
+582,Hostal Terraza Recreo,Vina-del-Mar,4.9,2.0,10,24.86
+583,Tybyn Eco Hostel,Arcabuco,297.5,0.0,0,2.50
+584,Utria Hostel,Bahia-Solano,13 f,9.3,3,10.09
+585,The Humpback Turtle,Bahia-Solano,12.8,9.6,87,8.83
+586,The Pelican House,Bahia-Solano,13 f,9.5,24,10.09
+587,Hakuna Matata Hostal,Bahia-Solano,13.6,9.1,15,10.09
+588,El Morro Hosteria- The Hill BnB,Bahia-Solano,13.6,0.0,5,20.17
+589,Tinto Hostel,Barichara,0.9,9.2,545,5.55
+590,Trip Monkey Hostel Barichara,Barichara,1 fr,0.0,0,9.33
+591,La Pacha Hostel and Camping,Barichara,6.7,9.7,132,5.04
+592,La Quinta Bacana Hostal,Barranquilla,1.5,8.8,94,7.57
+593,The Meeting Point Hostel,Barranquilla,2.9,8.4,817,6.88
+594,Mamy Dorme Hostel,Barranquilla,2.8,8.0,188,7.50
+595,Hostal Puerta de Oro,Barranquilla,4.3,7.4,24,8.83
+596,La Quinta Bacana La Campiña,Barranquilla,3.8,9.6,2,5.04
+597,Mary House,Barranquilla,4.5,9.4,4,4.20
+598,Hostal Alto De Los Nogales,Barranquilla,3.2,6.8,7,0.01
+599,Isla Luna Baru,Baru-Island,13.6,9.7,67,14.63
+600,The Cranky Croc Hostel,Bogota,1.5,9.8,2752,8.83
+601,Hostal R10,Bogota,1.2,8.8,234,6.30
+602,Selina La Candelaria Bogota,Bogota,1.3,9.0,547,14.47
+603,Botanico Hostel Bogota,Bogota,1.4,9.1,1302,8.83
+604,Granada Hostel,Bogota,1.4,9.4,147,6.81
+605,Viajero Bogota Hostel & Spa,Bogota,1.8,9.2,36,11.85
+606,Arche Noah Boutique Hostel,Bogota,1.7,9.4,513,9.58
+607,Republica Hostel Cabin Beds,Bogota,6.5,9.0,337,7.06
+608,Masaya  Bogotá,Bogota,1.5,9.1,1806,8.07
+609,Bababuy Hostel,Bogota,10.8,9.0,144,8.83
+610,Mandala Hostel Bogota,Bogota,9.3,8.9,378,6.30
+611,Fatima Hostel Bogota,Bogota,1.4,8.0,276,6.30
+612,LimaLimon Bogota,Bogota,1.6,9.3,97,7.57
+613,Spotty Hostels,Bogota,1.7,9.0,17,12.61
+614,Selina Parque 93 Bogota,Bogota,9.7,8.0,58,16.88
+615,Hostal Macondo Bogota,Bogota,6.7,9.5,6,8.67
+616,Hostel Bandido,Bogota,3.6,9.3,73,6.78
+617,Karuss Hostel,Bogota,1.6,9.7,322,7.31
+618,Ulucaho,Bogota,1.5,9.7,88,6.30
+619,Hostel Trip Monkey Bogotá D.C,Bogota,6.2,9.0,14,7.57
+620,North House Hostel,Bogota,7.9,9.2,168,5.00
+621,Hobu Hostel,Bogota,5.1,8.8,272,7.06
+622,Casa del Sol,Bogota,1.4,8.0,30,7.57
+623,Cedron Hostel,Bogota,1.4,10.0,100,8.07
+624,El Yarumo,Bogota,1.5,9.1,238,0.00
+625,Hostal Casa Colibri,Bogota,1.5,8.0,95,6.30
+626,Villacandelaria Hostel,Bogota,1.6,7.4,132,4.79
+627,82hostel,Bogota,8 fr,7.1,507,8.83
+628,Usaquen Station Hostel,Bogota,11.9,10.0,33,5.04
+629,Hostal La Candelaria Bogota,Bogota,1.7,8.4,101,14.00
+630,Zamia Hostel,Bucaramanga,2.8,9.3,55,6.30
+631,Ecoposada Montefiore,Bucaramanga,10.2,0.0,0,6.30
+632,Pacifico Hostel,Buenaventura,37 f,9.3,168,26.48
+633,Surfhous Estilo Libre,Buenaventura,38.8,8.9,7,10.09
+634,Grace Villas,Buenaventura,39.9,0.0,0,12.61
+635,Casa Majagua La Barra,Buenaventura,41.3,10.0,2,7.57
+636,Acuali Eco Hostal,Capurgana,0.6,9.7,90,10.09
+637,Casa Alma,Capurgana,3 fr,0.0,0,13.87
+638,Hostal Doble Vista,Capurgana,2.9,9.7,2,12.61
+639,Art's Cabins Choachi,Choachi,0.3,0.0,0,17.67
+640,EL Habitante Casa Cultural & Hostal,Cienaga,1.6,10.0,1,7.50
+641,GLAMPPARCHE,El-Penol,0.6,0.0,0,11.35
+642,Galerazamba Hostel,Galerazamba,0 fr,0.0,0,6.30
+643,Costeno Beach,Guachaca,2.9,8.8,416,15.03
+644,La Playita,Guachaca,0.5,10.0,1,8.07
+645,Yay Sustainable Resort,Guachaca,1.6,8.0,2,38.81
+646,La Rosa Nautica,Guaduas,0.2,0.0,0,6.30
+647,Colombian Hostelling La Llanerita,Guamal,7.5,0.0,0,5.04
+648,La Playita Hostel,Isla-Fuerte,0.8,8.5,23,12.61
+649,Wiji Island House,Isla-Fuerte,0.9,0.0,0,46.06
+650,La Sula Lodge,Isla-Fuerte,0.9,0.0,0,34.46
+651,Mistica Island,Isla-Palma,7.7,8.2,22,19.77
+652,Parcerito's Hostel,Jerico,0.7,9.9,8,6.30
+653,Riverside Ecoliving Space,Jerico,2.2,0.0,0,16.39
+654,Fruit Palace,La-Mesa,2.9,0.0,0,0.00
+655,Casa De Las Palmas,Leticia,4.4,9.3,38,8.57
+656,La Jangada Hostel y Tours,Leticia,4.6,9.1,19,8.07
+657,Kurupira Floating Cabin Amazon,Leticia,3.7,0.0,4,13.26
+658,Reserva Natural Tucuchira,Leticia,26.8,9.9,3,10.09
+659,On Vacation Amazon,Leticia,8.7,0.0,0,57.83
+660,Omshanty,Leticia,5.4,8.4,43,5.04
+661,Tambo Boutique House,Leticia,5.1,0.0,0,15.97
+662,Hotel Malokamazonas,Leticia,5.1,0.0,12,15.13
+663,Hostal de la 57,Manizales,0.6,7.9,55,0.00
+664,Golden Frog Mountain Hostel,Manizales,2.7,9.9,195,7.57
+665,Termales del Ruiz,Manizales,16.5,9.7,6,61.28
+666,Mirador Andino,Manizales,1.8,9.9,22,10.59
+667,Mirador Finca Morrogacho,Manizales,5.1,9.6,239,9.58
+668,Hacienda Venecia Hostel,Manizales,8 fr,8.3,79,7.57
+669,Aqui Me Quedo Hostal,Manizales,1.5,7.3,46,6.56
+670,Los Patios Hostel,Medellin,4.8,9.5,2220,12.10
+671,Viajero Medellin Hostel,Medellin,4.8,9.3,147,14.37
+672,Masaya Medellin,Medellin,5.2,9.2,113,0.02
+673,Purple Monkey Hostel,Medellin,4.7,9.5,1349,7.31
+674,Hostel Rango Boutique,Medellin,5.3,9.4,994,10.84
+675,Black Sheep Hostel Medellin,Medellin,5.4,9.2,2684,8.07
+676,Selina Medellin,Medellin,5.6,7.7,569,6.81
+677,La Playa Hostel & Rooftop,Medellin,5.6,9.3,387,10.09
+678,The Sugar Cane Hostel,Medellin,4.7,9.2,1234,7.57
+679,Casa Kiwi Hostel Medellin,Medellin,5.6,8.4,990,8.83
+680,The Wandering Paisa Backpackers Hostel,Medellin,1.3,8.9,947,5.80
+681,Medellín Vibes Hostel,Medellin,5.2,9.5,177,22.02
+682,Oasis Hostel,Medellin,2.2,9.2,36,6.05
+683,Medellin BackPacker Hostel,Medellin,1.9,8.6,154,6.09
+684,Gaston Coliving,Medellin,2.6,9.5,42,6.53
+685,Arcadia Hostel,Medellin,5.1,7.8,999,5.30
+686,International House Medellin Hostel,Medellin,2.5,8.9,313,4.03
+687,Florentina Hostal,Medellin,4.8,8.0,187,8.83
+688,Noah boutique hostel Medellín,Medellin,4.7,8.7,253,7.57
+689,Ivy Hostel,Medellin,6.7,8.5,818,7.06
+690,Yolo Hostel Medellin,Medellin,5.6,9.3,65,8.00
+691,Chillin District Hostel,Medellin,5.1,7.6,614,7.06
+692,Nodo Hostel,Medellin,4.8,6.6,13,6.30
+693,Panela Hostel,Medellin,5.1,7.6,81,5.04
+694,JEP Hostel,Medellin,1.9,7.3,45,5.04
+695,Key West Hostel,Medellin,1.8,9.2,3,7.04
+696,61Prado Guesthouse,Medellin,1.5,9.8,107,10.34
+697,Secret Buddha,Medellin,14.6,9.4,133,10.09
+698,Charlie Palace Hostel,Medellin,4.7,10.0,6,9.86
+699,Tiger Hostel,Medellin,5.3,7.2,520,2.61
+700,Casas Viejas by Masaya,Minca,3.6,9.4,842,8.83
+701,Casa Loma Minca,Minca,0.2,9.1,1125,9.34
+702,Mundo Nuevo Eco Lodge,Minca,2.1,9.9,718,6.30
+703,Finca Carpe Diem Ecolodge,Minca,6.9,9.7,776,6.30
+704,Rio Elemento Ecolodge,Minca,0.6,8.9,414,8.41
+705,Hostal Cocobomgo,Minca,0.4,9.2,366,8.83
+706,Hostal Eco Point Minca,Minca,0.4,7.9,13,7.57
+707,Jungle Joe Ecolodge,Minca,1.1,9.2,5,8.83
+708,Siembra Boutique Hostel,Minca,1 fr,9.7,14,38.46
+709,Hostal Guacamaya,Minca,0.2,7.0,73,5.04
+710,Chunnu Hostal & Glamping,Minca,0.5,8.5,31,15.13
+711,Finca Hostal Bolivar - Casa Maracuya,Minca,0.5,9.6,176,11.35
+712,Costeno River Minca,Minca,0.5,8.6,62,8.83
+713,Reserva Natural El Recuerdo,Minca,1.6,9.9,2,5.08
+714,Hostel Villa Silvia,Minca,0.2,7.3,4,9.46
+715,Hostal Montes De Beraka,Minca,1.1,0.0,12,18.49
+716,Hotel Minca La Casona,Minca,0.2,0.0,0,14.06
+717,Tanoa Minca,Minca,0.9,0.0,0,16.50
+718,Hostal  Sierra's Sound,Minca,0.3,0.0,0,11.35
+719,Sol De Minca,Minca,1.2,10.0,1,23.20
+720,Samay Hostal,Mocoa,1.1,9.3,28,6.56
+721,Pueblito Magico Hostel - Mompox,Mompos,1 fr,7.6,94,12.61
+722,El Vijo Lodge,Nuqui,24.1,8.3,1,29.00
+723,Dreamer Palomino,Palomino,1 fr,9.1,1917,8.83
+724,Tiki Hut Hostel,Palomino,0.9,9.2,532,8.83
+725,Bella Flor Hostel,Palomino,0.1,9.5,605,8.83
+726,El Zoo Hostel And Pool,Palomino,0.4,8.7,252,9.08
+727,Coco Sänkala Hostel,Palomino,0.3,9.7,182,7.57
+728,Selina Palomino,Palomino,0.2,8.0,22,14.47
+729,La Natura Hostel & Pool,Palomino,0.1,7.8,159,7.57
+730,Kasakolá,Palomino,0.5,8.4,8,5.04
+731,Casa del Pavo Real,Palomino,0.7,9.1,103,13.45
+732,Kanta Sana,Palomino,0.3,5.1,74,13.87
+733,Casa Kai,Palomino,0.4,7.3,5,11.77
+734,Primaluna Beach Hostel,Palomino,0.8,8.9,401,1.89
+735,Palomino Sunrise,Palomino,0.7,9.9,10,17.40
+736,Corazón de Tagua,Palomino,0.2,9.7,1,6.56
+737,Casa Chapolin,Palomino,0.9,9.9,10,0.00
+738,Cocobeach Palomino,Palomino,15595.,9.7,1,21.43
+739,Jui Chi MaMa,Palomino,0.6,9.2,6,6.30
+740,Kallpa B&B,Palomino,0.4,9.1,1,7.57
+741,Casa Hospedaje La Bohemia,Pasto,1.8,9.8,252,7.57
+742,Hostal Padua,Pasto,16 f,0.0,0,11.35
+743,Casa Brisa de Montaña,Pereira,5.2,9.1,36,10.09
+744,Zentrico,Pereira,4.3,9.6,2,15.13
+745,Santamaria bed and Breakfast,Pereira,0.9,9.9,12,5.55
+746,La Calamuchita,Pereira,5.4,0.0,0,22.06
+747,Casa San Carlos Lodge,Pereira,11.9,0.0,0,74.39
+748,Les Balcons Hostel,Popayan,0.7,8.9,95,5.04
+749,El Caracol,Popayan,0.7,8.0,342,6.81
+750,La Helenita Finca Hostal,Pueblo-Bello,0.8,0.0,0,12.00
+751,Kasamar Hostal,Puerto-Colombia,0.3,0.0,6,8.83
+752,Cabanas Turisticas Manguare,Puerto-Narino,0.2,0.0,0,11.83
+753,Hostel Blue Sea,Rincon-del-Mar,0.5,8.0,33,8.83
+754,Hostel Beach House,Rincon-del-Mar,0.3,9.4,76,10.09
+755,Dos Aguas Lodge,Rincon-del-Mar,0.7,9.9,75,33.63
+756,Folatun Hostal,Rincon-del-Mar,50.9,9.8,15,15.63
+757,Eco-Camping Mango Feliz - Rincon del Mar,Rincon-del-Mar,0.6,0.0,0,3.78
+758,Secreto Hostel,Rosario-Island,3.1,9.2,101,13.87
+759,Eco Hotel Luxury Islas del Rosario,Rosario-Island,4.3,5.7,3,25.22
+760,Coffee Tree Boutique Hostel,Salento,0.3,9.4,1587,8.07
+761,Viajero Salento Hostel,Salento,0.3,8.8,2012,10.89
+762,Yambolombia Hostel,Salento,1.8,9.7,911,5.55
+763,Cattleya Trianae,Salento,0.5,9.2,466,7.06
+764,The Corner House Hostel,Salento,0.2,8.9,188,5.04
+765,Walkers House Hostel,Salento,0.2,8.4,282,7.57
+766,Refugio Puente de la Explanacion,Salento,2.3,9.7,306,8.91
+767,Hostel Tralala Salento,Salento,0.1,8.4,537,6.30
+768,La Floresta Hostel,Salento,0.3,9.3,722,5.80
+769,Soa Hostel,Salento,0.4,8.5,9,10.09
+770,The Plantation House Too,Salento,0.4,9.5,37,12.61
+771,Villas de Venecia,Salento,1.7,0.0,10,3.15
+772,Hostal Estrella de Agua,Salento,0.1,8.3,94,0.88
+773,Hostal Vistaguila,Salento,0.5,9.7,11,11.77
+774,Casa La Eliana,Salento,0.3,9.6,98,6.30
+775,Casa Alto Del Coronel,Salento,0.3,10.0,5,5.67
+776,Mahalo Hostel,Salento,0.4,9.0,2,11.00
+777,Hostal Ciudad de Segorbe,Salento,0.2,4.6,55,7.87
+778,Hostal Girasoles,Salento,0.5,0.0,0,7.57
+779,Kilómetro Cero Hostel,Salento,0.3,0.0,0,7.57
+780,La Posada del Cucu,Salento,2.5,0.0,0,13.11
+781,Hotel Mirador de Boquia,Salento,1.4,0.0,0,17.86
+782,Casa Borbon,Salento,0.2,0.0,0,16.81
+783,Hostal Finca Cardonales,Salento,0.6,0.0,1,16.39
+784,Hostel Boutique Palmas de  Salento,Salento,0.3,9.2,41,12.10
+785,Finca La Manchuria,Salgar,2.7,0.0,0,11.35
+786,Masaya San Agustin,San-Agustin,1.9,9.8,99,6.10
+787,Hotel Casa De Nelly,San-Agustin,1.5,9.7,421,5.80
+788,Hostal Bambú,San-Agustin,0.9,9.6,223,4.54
+789,Hostal Music y Art,San-Agustin,0.5,9.7,24,4.29
+790,Finca El Maco,San-Agustin,2.1,0.0,0,6.72
+791,Viajero San Andres Hostel,San-Andres-Island,1.4,7.3,2483,16.00
+792,Karibbik Haus Hostel,San-Andres-Island,1.1,9.0,267,13.87
+793,Republica Hostel San Andres,San-Andres-Island,7 fr,8.3,68,18.69
+794,The Rock House Hostel,San-Andres-Island,0.7,8.9,73,12.61
+795,Blue Almond Hostel,San-Andres-Island,1.1,9.3,607,12.61
+796,On Vacation Tone Blue,San-Andres-Island,1.6,0.0,0,45.18
+797,On vacation Magic Hill,San-Andres-Island,2.6,0.0,0,56.79
+798,My Total Experience,San-Andres-Island,0.8,9.7,24,20.20
+799,Derma´s Inn,San-Andres-Island,2.1,0.0,1,15.89
+800,Verano Azul San Andres Isla,San-Andres-Island,1 fr,8.0,9,17.65
+801,Hostal Palo Alto,San-Andres-Island,0.8,2.0,2,11.00
+802,Sheylla's Place PathWay,San-Andres-Island,1.8,0.0,13,37.83
+803,On Vacation Blue Cove,San-Andres-Island,6.6,0.0,0,45.18
+804,Casa Finca El Karaho,San-Andres-Island,9.7,0.0,0,24.38
+805,Hostel Stingray,San-Andres-Island,1.1,0.0,0,11.91
+806,Alojamiento Santa Julia,San-Andres-Island,1.6,0.0,0,16.34
+807,Hostal Queen Elizabeth,San-Andres-Island,2.5,0.0,0,24.50
+808,Providence Breeze,San-Andres-Island,0.6,5.3,4,11.35
+809,Hostal Mar y Mar,San-Andres-Island,1.3,0.0,7,25.22
+810,Apartamento en San Andrés. Comfort Inn,San-Andres-Island,0.9,0.0,0,21.43
+811,Siloe Cove Hospedaje Boutique,San-Andres-Island,6.5,0.0,51,18.91
+812,On Vacation Tower,San-Andres-Island,1.6,0.0,0,64.54
+813,On Vacation Blue Reef,San-Andres-Island,0.6,0.0,0,45.18
+814,Macondo Hostel,San-Gil,0.7,9.9,739,5.30
+815,SamS VIP Hostel San Gil,San-Gil,0.6,9.5,851,5.22
+816,La Mansion Hostel,San-Gil,0.5,9.3,308,3.93
+817,Traveler Hostel San Gil,San-Gil,0.3,9.4,87,4.41
+818,Hostel Trip Monkey,San-Gil,1.1,9.8,24,5.55
+819,Hostel Nirvana San Gil,San-Gil,1.5,8.3,253,4.99
+820,Ambar Hostel San Gil,San-Gil,1.2,9.9,5,6.93
+821,Hostal La Casona de don Juan,San-Gil,0.7,10.0,19,3.78
+822,La Hacienda,San-Gil,4.3,10.0,11,5.04
+823,Hostel montañita,San-Gil,2.2,0.0,0,5.04
+824,Bacaregua Hostel,San-Gil,0.3,10.0,223,4.79
+825,Adventure Hostel,San-Gil,0.5,10.0,3,5.04
+826,Meraki Boutique Hostel,San-Gil,0.7,0.0,0,11.35
+827,Hotel Campestre Monterrey,San-Gil,2.3,0.0,0,7.57
+828,Green Door Boutique,San-Gil,0.9,0.0,0,3.49
+829,Hostel Santander Aleman,San-Gil,0.9,0.0,9,5.93
+830,Amukan Guest House,San-Rafael,1.4,10.0,2,13.00
+831,Willy Hostel,San-Rafael,1 fr,9.9,10,1900.00
+832,Rogupani Hostel,San-Rafael,1.5,7.3,87,2.01
+833,casArtero eco posada,San-Rafael,12 f,0.0,0,25.67
+834,Casa De Verano,Santa-Fe-de-Antioquia,1.3,10.0,38,20.43
+835,El Rio Hostel,Santa-Marta,47.6,9.3,1269,6.30
+836,Viajero Santa Marta,Santa-Marta,2 fr,9.4,345,9.58
+837,The Journey Hostel,Santa-Marta,33.1,9.2,703,10.00
+838,Masaya Santa Marta,Santa-Marta,1.3,9.0,1656,8.83
+839,Distrito Hostel,Santa-Marta,1.8,9.5,145,7.55
+840,La Brisa Loca,Santa-Marta,1.4,8.9,2525,7.93
+841,Dreamer Santa Marta,Santa-Marta,3.9,9.0,5374,8.07
+842,Tunido,Santa-Marta,1.3,9.6,203,8.70
+843,Flamingo Hostel & Coworking,Santa-Marta,1.4,8.0,40,8.83
+844,Casa Avelina,Santa-Marta,0.7,8.9,37,10.09
+845,Mama Tayrona Jungle Hostel,Santa-Marta,22.8,8.9,140,9.58
+846,Playa del Ritmo,Santa-Marta,9.4,9.2,463,8.07
+847,La Puerta Azul by Ankeva,Santa-Marta,1.1,9.7,8,8.83
+848,Sierra Minca,Santa-Marta,14.9,5.9,13,15.13
+849,Fatima Hostel Santa Marta,Santa-Marta,1.7,7.7,642,7.57
+850,La Brisa Tranquila,Santa-Marta,38.8,8.4,758,7.57
+851,Rokadura Hostel,Santa-Marta,2.4,8.6,34,6.30
+852,Puerto Alto Hostel,Santa-Marta,45.2,8.4,7,10.09
+853,Musa Paradisiaca Hostal,Santa-Marta,2.5,9.5,9,11.35
+854,Faro de Alejandria Hostel,Santa-Marta,1.5,6.5,76,0.25
+855,Los Hermanos Beach Hostal,Santa-Marta,38.9,9.3,120,12.10
+856,Eco Hostal Yuluka,Santa-Marta,29.3,8.6,322,8.83
+857,Reserva Biologica Caoba,Santa-Marta,12.3,9.7,22,8.83
+858,Hostal KAIA,Santa-Marta,2 fr,7.4,272,5.55
+859,Hotel Parque de los Novios Inn,Santa-Marta,1.7,9.1,1,13.24
+860,Aroha Villana,Santa-Marta,1.5,9.2,5,6.30
+861,Playa los Angeles,Santa-Marta,34.3,8.5,9,17.80
+862,Onaca Hostal,Santa-Marta,6 fr,9.9,3,8.12
+863,Color Hostel,Santa-Marta,2.2,7.6,50,8.32
+864,Hostal CasaMart,Santa-Marta,6.4,9.5,15,0.25
+865,Summer Hostal Gastro Bar,Santa-Rosa-de-Cabal,0.4,9.9,2,7.57
+866,Kimana Hostal,Santa-Rosa-de-Cabal,0.4,9.0,3,7.31
+867,Hostal La Cazihita,Sogamoso,0.2,0.0,35,8.57
+868,Nirvana Hostel Taganga,Taganga,0.4,9.0,406,7.57
+869,Divanga Hostel,Taganga,0.3,9.6,903,8.83
+870,Hostal Palohe Taganga,Taganga,0.1,9.6,128,10.09
+871,Hostal La Casa de Felipe,Taganga,0.7,9.2,191,6.96
+872,La Tortuga Hostel,Taganga,0.3,8.6,316,9.00
+873,La Masia Summer Hostel,Taganga,0.4,6.3,140,10.09
+874,Santa Lova,Tintipan-Island,0.5,0.0,0,18.91
+875,Hostal Renacer,Villa-de-Leyva,1.7,9.2,359,7.57
+876,Selina Villa de Leyva,Villa-de-Leyva,0.1,8.7,29,12.06
+877,Nibiru Hostel,Villa-de-Leyva,0.2,9.8,18,11.35
+878,Hostal Xue,Villa-de-Leyva,0.2,9.9,445,0.76
+879,Travellers Home Mini Hostel,Villa-de-Leyva,0.1,9.9,3,14.12
+880,Casa Mediterranea,Villa-de-Leyva,0.8,10.0,3,11.35
+881,Hostal Rana,Villa-de-Leyva,0.1,8.8,359,7.57
+882,Hotel Verona Villa de Leyva,Villa-de-Leyva,0.1,10.0,1,21.43
+883,Family Host World,Villa-de-Leyva,0.5,8.1,189,0.00
+884,Hospedaje La Tierrita,Villa-de-Leyva,3 fr,0.0,0,17.40
+885,Hospedaje LAURELES de la villa,Villa-de-Leyva,0.2,0.0,0,11.35
+886,Hospederia Sol Del Desierto,Villavieja,0.5,8.7,8,10.09
+887,Community Hostel Alausi,Alausi,0.1,9.5,161,12.50
+888,Erupcion Art Hotel & Hostel,Banos,0.1,9.1,737,6.67
+889,Great Hostels,Banos,0.4,9.6,980,8.99
+890,Papachos Hostel,Banos,0.5,9.2,857,8.90
+891,Hostal Chimenea,Banos,0.4,9.1,328,9.00
+892,Selina Banos,Banos,0.2,8.7,152,12.00
+893,La Casa del Molino Blanco,Banos,0.6,9.3,482,9.97
+894,Mama Tungu Hostel,Banos,2.4,9.4,9,8.50
+895,Hostal Transilvania,Banos,0.2,7.1,289,6.00
+896,Mystic Travel Lodge,Banos,1.3,7.5,3,17.50
+897,Casa Santa Lucia,Banos,0.9,10.0,3,11.67
+898,Princesa Maria,Banos,0.4,9.4,537,10.00
+899,Hostal Casa Amarilla City,Banos,0.4,9.2,36,10.00
+900,Le Petit Jardin,Banos,0.2,0.0,0,10.00
+901,Hostal Viajeros Backpackers,Banos,0.3,0.0,19,10.00
+902,Hostal Llanovientos,Banos,0.5,0.0,5,13.00
+903,Rincón Baneño,Banos-de-Agua-Santa,0.5,8.6,2,4.00
+904,Hostal Los Andes,Banos-de-Agua-Santa,0.5,0.0,0,8.75
+905,Hostel Coco Loco,Canoa,0.4,9.9,82,14.11
+906,Hotel Rutamar,Canoa,0.4,9.7,8,11.25
+907,Rio Muchacho,Canoa,8.1,9.7,4,4.23
+908,Hostal Cloud Forest,Chugchilan,1.1,9.5,156,17.00
+909,Casa Michael,Guayaquil,3.1,8.2,380,8.00
+910,Hostel Nucapacha,Guayaquil,1.3,8.9,578,13.07
+911,Manso Boutique Guesthouse,Guayaquil,3.8,7.9,425,17.00
+912,Dreamkapture Hostel,Guayaquil,3.5,7.9,672,8.93
+913,Villa Maria,Guayaquil,3.2,9.7,44,9.50
+914,Dc suites,Guayaquil,2.1,8.3,30,15.00
+915,Murali Hostal Airport,Guayaquil,3.1,7.0,115,13.00
+916,Thefunkymonkeyhostel,Guayaquil,1.7,8.0,184,8.12
+917,Pepe's House Guayaquil | Self-Check-In MicroH,Guayaquil,3.4,9.0,2,20.90
+918,Hello! Las Peñas Siglo XXI Guesthouse,Guayaquil,3.3,0.0,0,30.00
+919,Refugio Terra Esperanza,Ibarra,8.7,9.4,31,8.00
+920,Hostal Casa Aida,Ibarra,9 fr,10.0,14,6.67
+921,Hostal Fevilamir,Ibarra,2.1,0.0,4,11.40
+922,Casa Franco and Leticia,Las-Tunas,2.1,0.0,2,10.00
+923,Hostal Cafe Tiana,Latacunga,0.2,9.2,866,10.50
+924,Cuscungo Cotopaxi,Latacunga,25.5,9.5,102,10.00
+925,Latacunga Hostel,Latacunga,0.2,10.0,8,24.00
+926,Hostal Rosita Latacunga,Latacunga,0.6,10.0,1,7.50
+927,Hostel Tierra De Fuego,Latacunga,1.1,7.7,18,5.50
+928,Hotel Tambopaxi Lodge,Machachi,15.3,7.7,3,38.89
+929,Casa del Montañero,Machachi,0.2,0.0,0,15.45
+930,Albergue Español & Ceibo Lodge,Misahualli,0.3,10.0,5,8.00
+931,The Mudhouse Hostel,Mompiche,0.2,10.0,138,9.00
+932,Hidden House Mompiche,Mompiche,0.6,9.7,59,5.00
+933,Hostal - Camping Sin Fronteras,Mompiche,0.5,10.0,4,2.50
+934,La Facha Surf Hostel - Restaurant,Mompiche,0.6,0.0,4,10.00
+935,La Casa Mompiche,Mompiche,0.6,10.0,1,5.00
+936,Maracumbo Lodge,Mompiche,0.2,0.0,18,6.00
+937,Hidden House Hostel Montañita,Montanita,0.2,8.8,541,1.00
+938,Hostal Casa del Sol,Montanita,0.8,9.7,125,14.00
+939,Kamala Surf and Backpacker Hostel,Montanita,2.3,9.5,30,6.00
+940,My Little House Surf&backpacker Hostel,Montanita,0.1,9.3,879,7.00
+941,ESPERANTO B&B Surf & Backpacker hostel,Montanita,0.1,9.7,896,4.00
+942,Selina Montañita,Montanita,0.2,8.1,65,13.00
+943,Sapa Inka Hostel,Montanita,0.1,9.6,157,7.00
+944,Hostal Moai B&B Surfcamp,Montanita,0.1,7.9,194,8.50
+945,Kiwi Hostel Montanita,Montanita,0.4,7.2,194,7.00
+946,Hostal Kundalini,Montanita,0.2,9.1,62,19.04
+947,Montezuma Hostel,Montanita,0.1,2.0,4,9.04
+948,Arrels Hostel,Montanita,0.5,3.4,2,3.63
+949,El Cielo,Montanita,0.6,9.6,170,8.00
+950,Casa Cacique Lodge,Montanita,0.6,0.0,0,10.00
+951,Al Carajo House,Montanita,0.1,0.0,1,7.50
+952,Tikilimbo surf hostel & restaurant,Montanita,0.2,0.0,8,23.00
+953,Hostal Buen Dia,Montanita,0.2,0.0,0,25.00
+954,Tiki Trip Montanita,Montanita,0.2,8.9,15,3.33
+955,El Gran Azul,Olon,148.1,8.3,13,9.00
+956,El Andariego,Otavalo,0.7,8.7,20,12.00
+957,El Tio Hostal,Otavalo,5.6,9.7,43,6.50
+958,Hostal Flying Donkey,Otavalo,0.9,8.6,28,2.50
+959,Cabañas Balcon del lago,Otavalo,6.4,4.0,18,7.50
+960,Hospedaje Los Ponchos,Otavalo,0.5,0.0,12,11.00
+961,Hosteria Rose Cottage,Otavalo,4 fr,9.4,184,12.00
+962,Hostal La Rosa Otavalo,Otavalo,0.9,9.4,26,9.00
+963,The Traveler Hostel,Otavalo,1.2,10.0,1,13.33
+964,Pacheco Farmhouse,Otavalo,32.2,0.0,30,15.00
+965,LomaWasi,Otavalo,10.3,9.7,22,9.00
+966,Hostal Otavalos Inn,Otavalo,0.6,8.6,77,11.50
+967,Hostal Curinan,Otavalo,1.6,0.0,7,11.00
+968,Yemayá Hostal,Puerto-Lopez,0.8,8.7,73,10.00
+969,Alcazaba,Puerto-Lopez,0.9,7.4,22,17.00
+970,My Best Stay Piedra del Mar,Puerto-Lopez,0.8,5.8,144,14.00
+971,Nativa Whale Domes,Puerto-Lopez,1.4,0.0,0,8.00
+972,Hostal Humpback International,Puerto-Lopez,1 fr,3.9,2,18.57
+973,The Secret Garden Quito,Quito,1.2,9.2,3386,10.00
+974,Selina Quito,Quito,3.6,9.3,134,10.00
+975,Masaya Quito,Quito,0.3,9.1,438,8.68
+976,Community Hostel,Quito,0.9,9.7,1621,9.00
+977,Minka Hostel,Quito,1.3,9.7,501,9.00
+978,Rebel Hostel,Quito,0.4,9.8,351,8.00
+979,Colonial House Inn,Quito,1.1,9.7,656,9.70
+980,Hostel Revolution,Quito,1.6,9.8,1210,9.00
+981,Huasi Lodge,Quito,1.1,9.4,213,8.00
+982,Friends Hotel & Rooftop,Quito,0.5,10.0,140,8.55
+983,Blue House,Quito,3.3,9.0,469,8.00
+984,Hotel Miguel Angel Terminal Quitumbe,Quito,7.9,0.0,6,25.00
+985,Travellers Inn,Quito,3.7,9.7,588,14.50
+986,Posada del Maple,Quito,3.5,9.8,120,13.58
+987,The Secret Garden Cotopaxi,Quito,31.8,9.8,7,91.05
+988,Casa Carpedm,Quito,1.2,8.3,218,12.00
+989,The Quito Guest House with Yellow Balconies,Quito,1.5,10.0,10,12.50
+990,Heritage Inn,Quito,3.3,0.0,23,14.50
+991,Hostal Marsella,Quito,1.5,0.0,437,9.00
+992,PGH Hostal Quito,Quito,6.8,10.0,14,14.00
+993,Bunker Hause,Quito,4.2,9.6,2,12.00
+994,Hostel Rock & Quito,Quito,2.2,4.0,3,7.00
+995,Hotel Gran Quitumbe,Quito,9.3,0.0,14,15.00
+996,Casa Andina,Quito,3 fr,0.0,0,7.50
+997,GUESTHOUSE NELSON,Quito,1.3,10.0,3,5.42
+998,Latinos Brothers House,Quito,0.9,2.0,3,5.00
+999,Hotel La Basilica,Quito,0.7,0.0,0,43.13
+1000,Rincon Familiar Hostel Boutique,Quito,0.4,0.0,0,21.00
+1001,Mia Leticia,Quito,0.6,0.0,21,24.50
+1002,Dawn's Lodge,Quito,1.1,0.0,199,17.10
+1003,Hostel Villa Bonita,Riobamba,0.5,9.7,47,11.00
+1004,Chescos Hostel & Hotel,Salinas,1.2,9.4,146,9.90
+1005,Hostal Haziel,Salinas,2.1,0.0,0,25.00
+1006,Soga Lounge,Santa-Marianita,15.6,9.9,8,15.63
+1007,Hostal Pakay,Tena,2 fr,9.5,203,8.50
+1008,Hostal Naui,Tena,1.3,9.2,79,4.00
+1009,Zumag Sisa,Tena,1.7,9.5,114,8.91
+1010,Hostal Limoncocha,Tena,1.4,9.4,38,8.00
+1011,Grand Selva Lodge & Tours,Tena,30.9,9.9,2,14.75
+1012,Laguna Paikawe Reserve Lodge,Tena,17.4,0.0,0,11.50
+1013,Selina Amazon Tena,Tena,12.7,8.6,12,23.00
+1014,La Casa De Bamboo,Tonsupa,1 fr,0.0,0,18.00
+1015,Selina Arequipa,Arequipa,0.7,8.9,181,9.78
+1016,Arequipay Backpackers Downtown,Arequipa,0.7,9.2,2734,6.29
+1017,Friendly AQP,Arequipa,0.6,9.5,918,5.24
+1018,Le Foyer Arequipa,Arequipa,0.3,8.9,301,7.64
+1019,Flying Dog Hostel Arequipa,Arequipa,0.4,8.6,353,7.92
+1020,Hostal Sol de Oro,Arequipa,0.2,8.5,735,6.50
+1021,Way Kap Hostel Arequipa,Arequipa,0.5,8.8,198,7.86
+1022,Mango Hostel,Arequipa,0.4,8.1,315,6.55
+1023,Holidays Hostel Arequipa,Arequipa,0 fr,8.7,40,7.20
+1024,Positive Hostel,Arequipa,0.6,6.8,12,6.81
+1025,Econunay,Arequipa,0.7,9.1,566,6.55
+1026,Marlon's House in Arequipa,Arequipa,0.7,7.0,596,6.00
+1027,Las Torres de Ugarte,Arequipa,0.5,10.0,236,20.00
+1028,Chikan Hotel Arequipa,Arequipa,0.8,8.9,144,10.48
+1029,Hotel Virreinal AQP,Arequipa,0.7,9.0,3,10.92
+1030,Casa de Avila,Arequipa,0.7,9.4,130,20.38
+1031,Peter's Hostel,Arequipa,0.2,6.3,84,5.00
+1032,Orkkowasi,Arequipa,0.6,0.0,0,5.00
+1033,La Posada de Ugarte,Arequipa,0.4,0.0,7,13.11
+1034,Mr llama,Arequipa,0.3,0.0,0,7.34
+1035,Hostal Lluvia de Oro,Arequipa,0.3,0.0,11,1.18
+1036,Sambo's Hostel,Arequipa,0.3,8.9,3,6.25
+1037,Hostal Carmen,Arequipa,0.9,0.0,1,5.24
+1038,Villa Sillar,Arequipa,0.3,0.0,0,15.25
+1039,Yakumama Hostel,Carhuaz,2.1,0.0,0,10.00
+1040,La Tribu Hostel,Chachapoyas,0.6,9.4,2,6.00
+1041,Chachapoyas Backpackers Hotel,Chachapoyas,0.8,9.5,3,8.74
+1042,Kokopelli Hostel Cusco,Cusco,0.2,9.4,2161,8.91
+1043,Hospedaje Turistico Recoleta,Cusco,1.1,9.5,3048,11.00
+1044,Gaia House Hostel,Cusco,0.6,9.9,40,8.50
+1045,Wild Rover Cusco,Cusco,0.9,8.0,2851,7.60
+1046,loki Cusco,Cusco,0.8,8.7,1214,9.75
+1047,Intro Hostels Cusco,Cusco,0.7,9.2,1979,8.00
+1048,Pariwana Hostel Cusco,Cusco,0.2,8.6,6267,9.17
+1049,Selina Plaza De Armas Cusco,Cusco,0.3,8.5,186,10.00
+1050,VIP House,Cusco,0.6,9.5,1107,6.55
+1051,Samay Wasi Youth Hostels-Cusco,Cusco,0.7,9.2,819,12.00
+1052,Flying Dog Hostel Cusco,Cusco,0.6,8.7,146,9.16
+1053,Supertramp Hostel Cusco,Cusco,0.7,9.5,434,10.22
+1054,Tucan Hostel Cusco,Cusco,0.7,9.8,42,7.00
+1055,Selina Saphi Cusco,Cusco,0.9,8.3,158,9.20
+1056,Dragonfly Hostels Cusco,Cusco,0.5,8.9,853,7.86
+1057,OkiDoki Cusco Hostal,Cusco,3.1,8.6,355,5.77
+1058,La Picanteria Guesthouse,Cusco,0.9,7.2,9,4.72
+1059,Saqray Hostel,Cusco,0.6,9.7,46,11.00
+1060,Cusco Packers Hostels,Cusco,1 fr,8.9,373,1.31
+1061,Hostal El Grial,Cusco,0.6,9.9,145,16.67
+1062,Klix Hostel Cusco,Cusco,0.7,9.1,1,6.03
+1063,Chusay Rooftop,Cusco,0.9,8.1,20,6.23
+1064,Inkas Garden Hostel,Cusco,1.1,8.7,111,8.47
+1065,Hommam,Cusco,0.3,9.0,2,10.00
+1066,Hostal Tu Hogar,Cusco,0.5,9.7,1,8.30
+1067,Hostal Cusco Internacional,Cusco,0.6,10.0,2,14.33
+1068,La Posada del Viajero,Cusco,0.2,8.9,66,12.67
+1069,Pirwa Backpackers Colonial,Cusco,0.4,7.9,1015,8.00
+1070,The Grasshopper Hostel,Cusco,0.9,5.1,386,4.72
+1071,International House Cusco,Cusco,0.4,0.0,0,8.74
+1072,Banana's Adventure,Huacachina,0.2,9.4,2905,13.56
+1073,Wild Rover Huacachina,Huacachina,0.1,8.4,869,8.91
+1074,The Upcycled Hostel,Huacachina,0.9,9.1,676,13.11
+1075,Hostal Huacachina Sunset,Huacachina,0.2,7.8,29,10.00
+1076,El Boulevard,Huacachina,0.2,8.6,197,6.87
+1077,Wild Olive Guesthouse,Huacachina,0.1,9.7,711,1.31
+1078,La Casa de Bamboo,Huacachina,0.2,5.7,98,9.96
+1079,Punta Huanchaco Hostel,Huanchaco,0.2,9.6,47,10.00
+1080,Moksha Surf & Yoga Hostel,Huanchaco,0.1,8.5,59,6.99
+1081,Indigan Surf Hostal,Huanchaco,0.5,9.3,14,6.55
+1082,Wachaque Surf,Huanchaco,0.1,9.8,147,5.24
+1083,Icaadventures 2,Ica,0.8,9.2,840,5.19
+1084,Ica Wasi Hospedaje,Ica,1.2,9.6,754,4.47
+1085,Oasis & Wind House,Ica,1.1,9.7,14,5.67
+1086,El Huerto Hostel,Ica,0.3,9.1,25,19.22
+1087,Amaris Tours Peru,Ica,1.6,6.1,73,9.83
+1088,La Casa de Mamama,Ica,0.8,0.0,0,12.86
+1089,Alpes Lima Kennedy Park,Lima,8.4,9.5,567,9.17
+1090,Selina Miraflores Lima,Lima,8.6,8.9,328,9.00
+1091,Kokopelli Hostel Barranco,Lima,11.2,9.4,75,10.83
+1092,Pariwana Hostel Lima,Lima,8.1,9.2,4929,10.22
+1093,1900 Backpackers Hostel,Lima,1.8,9.2,2856,8.00
+1094,Black Llama Hostel Miraflores,Lima,8.2,9.4,58,9.74
+1095,Selina Posada Miraflores,Lima,8.4,8.6,31,7.50
+1096,Waikiki Hostel,Lima,8.8,9.3,2831,9.70
+1097,The Secret Garden Hostel,Lima,7.9,9.6,65,6.36
+1098,Flying Dog Hostels B&B,Lima,8.3,7.7,224,9.17
+1099,Mama Backpackers,Lima,6.9,9.7,210,11.00
+1100,"KACLLA, The Healing Dog Hostel",Lima,8.7,9.2,1234,10.48
+1101,Flying Dog Hostels Backpackers,Lima,8.3,8.5,262,9.17
+1102,Passion Hostels Barranco,Lima,11.2,9.5,12,8.19
+1103,Tierras Viajeras Hostel Cultural,Lima,8.5,9.1,241,10.00
+1104,Dragonfly Hostels Miraflores,Lima,8.5,8.8,127,14.00
+1105,Lima House,Lima,1.5,8.7,288,10.00
+1106,Tupac Hostel - Lima Airport,Lima,5.5,7.2,627,8.00
+1107,Llaqta Wasi,Lima,9 fr,9.9,4,10.48
+1108,Hotel Brickell,Lima,1.1,6.6,2,10.05
+1109,The Prime Spot Backpacker's Hostel,Lima,7.3,9.0,831,7.50
+1110,loki Lima,Lima,8.1,8.3,575,10.42
+1111,Lima White House,Lima,9 fr,7.2,62,12.00
+1112,Inkawasi Hostel Boutique,Lima,7.9,0.0,73,14.44
+1113,Beraja Family Hostel,Lima,10.3,9.9,9,11.27
+1114,Samanai Wasi,Lima,3.5,8.6,3,7.75
+1115,Kurmi Hostel Lima Airport,Lima,8.7,9.7,100,9.96
+1116,Hotel Solís Dies,Lima,8.4,0.0,0,15.00
+1117,Transit Home Bed and Breakfast,Lima,7.9,10.0,6,17.00
+1118,Dajoka Hospedaje,Lima,5.4,6.1,4,10.48
+1119,Supertramp Hostel,Machu-Picchu,1 fr,9.3,2062,9.44
+1120,Terrazas del Inca,Machu-Picchu,1 fr,10.0,294,25.00
+1121,Modo Viaje Machupicchu Hostel,Machu-Picchu,0.9,0.0,10,12.00
+1122,Retama Machupicchu,Machu-Picchu,1 fr,0.0,0,45.00
+1123,Hostal Chaska Machupicchu**,Machu-Picchu,0.9,0.0,148,22.67
+1124,Hotel Wiracocha Inn,Machu-Picchu,1 fr,0.0,46,30.00
+1125,Casa de Luz Hotel,Machu-Picchu,0.8,0.0,35,31.67
+1126,Wild Rover Beach Resort Mancora,Mancora,1.7,8.4,211,7.60
+1127,Selina Mancora,Mancora,0.6,9.4,4,17.50
+1128,The Point Mancora - Beach Hostel,Mancora,1.1,8.4,260,14.42
+1129,loki del Mar,Mancora,0.5,6.9,893,8.34
+1130,La Casa de Jessy,Mancora,1.4,6.0,13,5.24
+1131,Hospedaje la Quebrada,Mancora,0.2,0.0,2,15.07
+1132,Mancora Beach House,Mancora,1.8,0.0,0,12.00
+1133,Sebas Guest House,Mancora,1.2,0.0,0,20.00
+1134,Nasca Lodge,Nazca,1.3,9.7,539,6.00
+1135,Nanasqa Hostel,Nazca,2 fr,9.5,389,5.22
+1136,Nasca Trails B&B,Nazca,10.6,8.4,432,7.00
+1137,Anccalla Inn,Nazca,1.4,9.4,39,9.03
+1138,Mama Simona B&B - Ollantaytambo,Ollantaytambo,1.7,10.0,381,14.05
+1139,Casa Samay,Ollantaytambo,1.9,8.1,160,8.33
+1140,Casa Quechua Hostel & Camping,Ollantaytambo,0.8,9.2,124,5.24
+1141,Hotel Humantay Lodge Ollantaytambo,Ollantaytambo,1.3,9.0,2,22.60
+1142,San Isidro's House,Ollantaytambo,0.8,9.7,2,11.50
+1143,Hostal Chaska Wasi,Ollantaytambo,1 fr,9.8,60,10.00
+1144,Inka Khawarina Tambo Lodge,Ollantaytambo,1.5,7.6,3,12.50
+1145,Las Portadas,Ollantaytambo,1.2,7.7,82,6.55
+1146,B&B Picaflor Tambo,Ollantaytambo,1.2,0.0,2,23.33
+1147,Kenti's Home Ollantaytambo,Ollantaytambo,1.2,0.0,1,11.36
+1148,Mama Killa,Ollantaytambo,1.1,0.0,17,11.00
+1149,Wolf Totem Guesthouse,Pisac,1.2,9.6,165,7.08
+1150,El Parche Rutero Hostel,Pisac,0.9,8.6,29,7.00
+1151,Intihuatana Hostel & Backpackers,Pisac,1 fr,8.6,31,4.19
+1152,Hospedaje Chaska Pisac,Pisac,0.3,9.3,2,15.00
+1153,Los Burritos Hostal,Puerto-Malabrigo-Chicama,0.9,8.6,26,10.00
+1154,Villa Hermosa Casa Hospedaje,Puerto-Maldonado,3.9,0.0,0,12.00
+1155,Casa Satori,Barra-de-Valizas,0.3,9.7,5,22.00
+1156,Solar Valizas,Barra-de-Valizas,0.8,6.5,8,17.50
+1157,Viejo Lobo,Cabo-Polonio,1.3,9.1,296,16.20
+1158,Lobo Hostel Bar,Cabo-Polonio,1.2,7.8,290,9.07
+1159,Narakan,Cabo-Polonio,1.2,10.0,61,26.75
+1160,Carmelo Hostel & Garden,Carmelo,328.8,0.0,15,30.00
+1161,Viajero Colonia Hostel,Colonia-del-Sacramento,0.6,8.4,3759,15.00
+1162,Viajero Posada B&B,Colonia-del-Sacramento,0.7,8.9,575,27.00
+1163,El Galope Horse Farm,Colonia-del-Sacramento,0.9,5.4,256,20.00
+1164,La Casa de Teresa,Colonia-del-Sacramento,0.9,9.4,159,18.00
+1165,La Brujula Hostel,La-Paloma,1.8,10.0,56,20.00
+1166,Hostel Ibirapita,La-Paloma,1 fr,7.1,111,13.00
+1167,Viajero La Pedrera Hostel,La-Pedrera,1.6,7.1,533,12.94
+1168,Compay Hostel,La-Pedrera,2.1,8.6,95,9.00
+1169,La Rubia Hostel,La-Pedrera,2 fr,0.0,20,15.00
+1170,Piedra Alta,La-Pedrera,1.5,8.9,58,8.45
+1171,Hostel Pico Alto,La-Pedrera,1.6,0.0,6,12.00
+1172,Finisterre Hostel,La-Pedrera,2 fr,0.0,0,15.00
+1173,MedioMundo Hostel,Montevideo,1.3,9.6,446,9.63
+1174,Viajero Montevideo Hostel,Montevideo,2.8,9.2,2695,14.00
+1175,Che Lagarto Hostel Montevideo,Montevideo,0.7,8.7,425,12.80
+1176,Destino26,Montevideo,1.8,9.1,442,13.00
+1177,Hostel Charruas,Montevideo,0.8,9.6,107,15.00
+1178,Students Hostel,Montevideo,2.1,8.6,78,15.64
+1179,Circus Hostel Montevideo,Montevideo,3.8,7.6,184,12.60
+1180,Blanes Hostel,Montevideo,1 fr,5.7,152,6.73
+1181,Montevideo Chic Hostel,Montevideo,3.7,0.0,31,15.00
+1182,Hostel de los Colores,Piriapolis,0.9,6.9,52,18.00
+1183,Mar de Fondo Hostel,Punta-del-Diablo,6.7,9.2,272,13.00
+1184,Compay Hostel Punta del Diablo,Punta-del-Diablo,6.7,9.1,75,15.00
+1185,Casa Carabanchel & Centro Cultural,Punta-del-Diablo,6.1,0.0,0,7.93
+1186,The Trip Hostel,Punta-del-Este,1.8,9.0,879,10.00
+1187,F&F Hostel,Punta-del-Este,2.5,9.5,683,18.00
+1188,B&B Punta Hostel,Punta-del-Este,1.8,8.6,84,10.00
+1189,TAS D VIAJE SUITES - HOSTEL BOUTIQUE,Punta-del-Este,1 fr,9.1,823,11.90
+1190,Del Barcito Hostel and Suites,Punta-del-Este,2.7,6.3,29,12.00
+1191,Viajero Punta del Este Hostel,Punta-del-Este,2 fr,8.4,1325,11.00
+1192,Negrita Hostel,Punta-del-Este,9.9,6.0,204,21.00
+1193,"Casa Alevines Playa El Emir, Hostel & Suites",Punta-del-Este,1.1,9.1,93,20.70
+1194,La Quinta Hostel & Bar,Punta-del-Este,9.9,0.0,0,18.00
+1195,Hostel 32,Punta-del-Este,2.6,8.9,105,17.50
+1196,Selina Punta del Este,Punta-del-Este,0.2,0.0,0,18.40
+1197,Candy Hostel,Punta-del-Este,10.5,0.0,3,25.00
+1198,Planet Punta del este Hostel,Punta-del-Este,1.2,8.3,59,11.00
